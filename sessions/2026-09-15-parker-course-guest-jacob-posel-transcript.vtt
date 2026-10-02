@@ -1,0 +1,977 @@
+WEBVTT
+
+00:00:08.000 --> 00:00:11.000
+What's up, guys?
+
+00:00:11.000 --> 00:00:13.000
+How are we doing?
+
+00:00:13.000 --> 00:00:19.000
+All the note takers coming in
+
+00:00:19.000 --> 00:00:24.000
+Welcome in, guys. It's funny, Jim and I were actually just talking off camera
+
+00:00:24.000 --> 00:00:39.000
+Before we started about Astra, the new model from GPT. I don't know if anyone here has used it for video editing, but I just gave it like just before this session, I gave it a five minute long
+
+00:00:39.000 --> 00:00:57.000
+raw yap piece of footage that I made for a piece of short form content, and literally it cut it down perfectly to 30 seconds, and it's doing the edit on it now, and it's like… that would take an editor in itself, like, 30, 45 minutes to do, and it's just one-shotted it perfectly, without any context or instruction from me.
+
+00:00:57.000 --> 00:01:15.000
+So, that Figma diagram that we showed a couple of weeks ago, where we looked at all of the different parts of the creative strategy process is literally coming to fruition now. It's becoming more and more agentic by the day. So I don't know if anyone here has used it yet, but I'm sure we can go into that in a different session. That's not a conversation, though, but
+
+00:01:15.000 --> 00:01:18.000
+Interesting.
+
+00:01:18.000 --> 00:01:35.000
+Anyway, today we have a session that I've been looking forward to since we announced the course. We last week introduced the idea of a shared brain in the context of your marketing brain
+
+00:01:35.000 --> 00:01:41.000
+But today I want to go deeper or have our guests today go deeper on
+
+00:01:41.000 --> 00:01:59.000
+On that concept of a shared brain and what it could look like across your entire organization. So, many of you will be aware of who he is. If you're on Twitter, you definitely know. We're gonna be introducing Jacob from HQ, a good friend of ours, and he's going to teach us all about the idea of a shared brain, how you can set one up inside of your org
+
+00:01:59.000 --> 00:02:01.000
+Jacob, good to see you, dude.
+
+00:02:01.000 --> 00:02:07.000
+What's up? Thank you for having me. This is crazy. So many people here
+
+00:02:07.000 --> 00:02:13.000
+Well, it's a pleasure to be here. Thank you guys for having me. Should I just hop in?
+
+00:02:13.000 --> 00:02:14.000
+Should I just
+
+00:02:14.000 --> 00:02:33.000
+Go for it. Yeah, the way that we usually do these sessions is just run with your content, whether you want to do, like, go through the deck or screen share. People will ask things in the chat, but they're going to ask questions in the Q&A, and we usually just hold that until the end. So if you want to address anything in the chat while you go, go for it. If not, we can just
+
+00:02:33.000 --> 00:02:34.000
+Do some Q&A at the end.
+
+00:02:34.000 --> 00:02:53.000
+Beautiful. Yeah. I mean, I did want to say, I feel like we've been doing this like AI creative AI marketing thing for a while now, or at least it's felt like a while. And it's just insane what's possible now versus what used to be possible when we first started, like what you were just saying with Astra being able to fully edit videos
+
+00:02:53.000 --> 00:03:15.000
+Like, that was never feasible, like, 6 months ago, and now you have people doing the most insane, insane things. It's crazy. So, I guess preface everything that I'm about to say to everyone, grain of salt, which is things adapt very fast, that's why I'm excited to get into the Q&A and answer some of the more specific questions as well
+
+00:03:15.000 --> 00:03:17.000
+But
+
+00:03:17.000 --> 00:03:21.000
+Let me just hop right in.
+
+00:03:21.000 --> 00:03:36.000
+Alright, so great to meet everyone. My name is Jacob Ozel. I'm the co-founder of a company called HQ. Very basically, we basically create company brains, or we help people create company brains
+
+00:03:36.000 --> 00:03:56.000
+I like to call them, like, shared context layers, but company brains are sometimes a little bit easier to understand. And I've done hundreds of these at this point. I've been involved directly or indirectly for many of our customers and helping them set up their brain. And so I've seen a lot of new ones, and this is a nuanced thing because every company is a little bit different
+
+00:03:56.000 --> 00:04:09.000
+So, keep that in mind as I go through this. There's no one solution fits all for companies and for AI. It is a nuanced thing. And yeah, we can get into the specifics now.
+
+00:04:09.000 --> 00:04:23.000
+So let me kind of like set the scene, I guess, and I'm sure I know that Jimmy and Alex did this in a previous session on why you need a brain, but let me kind of just set what I see, which is
+
+00:04:23.000 --> 00:04:43.000
+Lots of teams use AI and they do a ton of work. They do a ton of valuable work, but where does that work actually go? Like what happens to that work? The fact that you start, everyone in your team starts a Claude session and you're basically starting fresh every single time makes no sense and you're just losing a ton of value
+
+00:04:43.000 --> 00:04:46.000
+But more important than that.
+
+00:04:46.000 --> 00:05:01.000
+you should be benefiting from the work the rest of your company is doing. Like, work is connected with… work is connected. Inherently work is connected. Like, product work, marketing work, even intra-marketing work, it's all connected to one another. So the fact that you can have people on your team
+
+00:05:01.000 --> 00:05:17.000
+Who have a completely different experience with AI than you do, a completely different set of context, set of skills, connection set up in their system to their Claude, just doesn't really… like, it's like an antiquated use way to use AI, and it's a big problem
+
+00:05:17.000 --> 00:05:26.000
+So the idea of a company brain is being able to connect that all together, and it really does have a profound effect. We personally
+
+00:05:26.000 --> 00:05:41.000
+Sorry, I'm kind of just going into the personal. We set up HQ as a personal product as an internal tool before we even productized it. And it had such a profound effect on our company, our ability to use AI that we decided to productize it. So the effect is
+
+00:05:41.000 --> 00:05:43.000
+is profound. So
+
+00:05:43.000 --> 00:06:07.000
+Basically, we'll make it super simple. You use AI, you ask a question, AI has no context about you, your business, your organization. And it gives you a super generic answer. And tools like Parker really do help in that, in that it's less generic because it's specific and verticalized, but still like you need more the AI needs to understand more context
+
+00:06:07.000 --> 00:06:19.000
+more than just what are the best performing ads of my competitors right now, but it needs to understand you and your business. So the basic idea is how do we avoid every chat starting from zero?
+
+00:06:19.000 --> 00:06:34.000
+So the solution to that is one brain that holds how everything works. So the true value of a brain is putting all of the different departments of your organizations into the brain, because no department's decisions are made
+
+00:06:34.000 --> 00:06:50.000
+independent of one another. For example, leadership sets the goals and priorities and budget. Product has the roadmap, they have launches, they have feedback on their product. Customer service has a huge wealth of content, like tickets, frequently asked questions, complaints
+
+00:06:50.000 --> 00:07:00.000
+Even like positive things as well, and then operations has, like, what's in, like, what is in stock? Like, what are our weekly numbers look like? What do we have in inventory
+
+00:07:00.000 --> 00:07:15.000
+All of these are independently extremely important pieces of the puzzle in order to correctly market… in order to market inside of your business. And so your AI needs to be able to draw upon all of that and needs to be able to use all of that in order to make
+
+00:07:15.000 --> 00:07:38.000
+Properly contextual and guided decisions. And so having a company brain is that you want to have all of that context in one place. And so, once you have that entire… once you have that company brain, and you add the marketing, which I think is the final piece, and that's why I'm shouting our pocket because I absolutely love Parker like that really allows you to draw on
+
+00:07:38.000 --> 00:07:46.000
+All of that important business context plus Parker, and that allows you to get actually
+
+00:07:46.000 --> 00:08:04.000
+Actionable. It allows you to take all of this context and, like, make it granular and make it actionable, and now you can take, okay, so leadership wants you to grow subscriptions this quarter, product is launching travel packs next month, tickets has taste as a top complaint, and stock is running
+
+00:08:04.000 --> 00:08:20.000
+They have a limited run, so they're out of stock. All of these, super important pieces, individual pieces of context that any good marketer should know, which they can then combine with their expertise of a specific harness or a specific vertical, specific tool like Parker
+
+00:08:20.000 --> 00:08:36.000
+To then, okay, actually create the ads, like, actually monitor competitors, actually help you build hooks, so that you can get granular, get detailed, get actionable, but with all of this important contextual information that your AI should understand when you actually build out these hooks
+
+00:08:36.000 --> 00:08:38.000
+So
+
+00:08:38.000 --> 00:08:58.000
+Imagine you had a question. You were like, what is our like what we're using AG1. What should AG1 test next week? So you draw upon you only have access to marketing data and it looks and it says, okay, well, these are the top hooks
+
+00:08:58.000 --> 00:09:18.000
+Founder videos are doing pretty well, and we found that these are your top performing ads, right? Like that's good contact. That's good information, but with limited context with a company brain and a tool like Park, and now you can say something like, well, leadership wants us to lead with subscriptions, so we need to figure out what we're going to do related subscriptions
+
+00:09:18.000 --> 00:09:33.000
+Onto the taste question head-on, like, how do we manage taste in the creative that we produce? And, well, we can't actually push travel packs, even though they're our top performers, because we're running out of stock.
+
+00:09:33.000 --> 00:09:36.000
+These are things that,
+
+00:09:36.000 --> 00:09:47.000
+Now you're kind of you're getting better as a business rather than just getting better as, like, a marketing team, where you're having the company brain goes from, I am
+
+00:09:47.000 --> 00:10:01.000
+trying to produce results for my company versus I am trying to produce results just for my individual marketing team, which are two very, very different… can be two very different things.
+
+00:10:01.000 --> 00:10:16.000
+So, the beauty, and what makes a company brain actually actionable and actually valuable is the ability for you to share this across the entire company.
+
+00:10:16.000 --> 00:10:39.000
+You want the company brain to be easily and frictionlessly available to the rest of your company, in whatever surface they're acting in. So, I mean, you have the CEO and you have the marketer in Claude Code, pretty common. You have an ops manager who, for some reason has decided they still want to use Cursor and a support lead like this
+
+00:10:39.000 --> 00:10:47.000
+This happens in the reality of companies, and you want everyone to be able to access this and also update this brain
+
+00:10:47.000 --> 00:11:00.000
+Because as we have kind of acknowledged and agreed, it needs to have context from all different parts of the organization. And you also need an agent inside of Slack
+
+00:11:00.000 --> 00:11:15.000
+To… to help you with work as, like, a virtual teammate. So you basically want to make this brain accessible to multiple different people, and you want it syncing across to multiple different people and multiple different devices, and using multiple different surfaces
+
+00:11:15.000 --> 00:11:22.000
+Jimmy, I'm realizing I'm talking pretty fast, and I'm only, like, 11 minutes in, so we may need to have a longer Q&A. But anyway, let's
+
+00:11:22.000 --> 00:11:25.000
+Oh yeah, we're good, don't worry, we'll have plenty of questions for you.
+
+00:11:25.000 --> 00:11:42.000
+Okay, cool. So what actually is a brain, like in practice? I know, like, I just, I kind of pitched you all on why you need a brain, but, like, what is that actually in practice? Like, physically, what is a brain
+
+00:11:42.000 --> 00:12:00.000
+So, ultimately, the two most important pieces are files, and then different integrations into your business. So Wi-Fi files. Well, files, files represent the context files are like the library that your AI draws upon
+
+00:12:00.000 --> 00:12:17.000
+To understand your business. And when I say things like, it needs your leadership context, or it needs your ops context, or it needs your… whatever context, like, ultimately, those usually just live as files. Those are either files on your
+
+00:12:17.000 --> 00:12:37.000
+Computer is the way that we build it, or they can be files in the cloud, but ultimately they're just files. And I know that, for example, Parker has their Parker brain and they have like a really nice structured file system that you guys can look at. That's a really, really good example of what a good, nicely organized company brain looks like.
+
+00:12:37.000 --> 00:12:42.000
+I do kind of want to give my little thing right now, which is
+
+00:12:42.000 --> 00:13:03.000
+I've seen two types of company brains. I've seen one from, like, really, really big two-300 people organizations, that are, like, really, really beautiful and really, really clean and really, really well structured and organized, and I look at it and I'm like, wow, this is absolutely beautiful. And then I
+
+00:13:03.000 --> 00:13:15.000
+Look at ours internally, which is like a complete mess and it's not beautifully structured. And our goal is like, let's just get as much information in there as possible
+
+00:13:15.000 --> 00:13:31.000
+Our agents will do the organization, not the people. And in practice, and with internal tests that we've run, there hasn't been a significant difference in the ability of the AI agent to use this context. And I kind of want
+
+00:13:31.000 --> 00:13:50.000
+I worded that specifically on purpose. Remember that the purpose of your brain, your company brain in this context, in the context of this webinar and this conversation is it's designed for your agents. It's not designed for your people. If you want to use it for people, if you want your brain to be useful for people
+
+00:13:50.000 --> 00:14:05.000
+then, like, go back to 2022 and, like, use Notion or something like that. But that's an inefficient way to operate in this day and age, and that's not the way that we want to operate. So remember, you're trying to make your brain optimal for the agents
+
+00:14:05.000 --> 00:14:17.000
+And whether or not the agents care that you have a really, really nice structured, organized file system is still up for debate and not necessarily true. So
+
+00:14:17.000 --> 00:14:24.000
+I say this not to just like shit on like well-organized file systems, but to like
+
+00:14:24.000 --> 00:14:51.000
+A huge problem that I see when businesses try and do these things is they get really stuck up in the beginning. They're like, okay, cool, I understand we need a company brain, I'm going to create my company brain. Let me try and predict every single future use case for this company brain, and let me try to organize my file system so that it will work for every single person. And they just get stuck in this like puzzle and this inertia, and then they just don't do it because they're like, well, what if
+
+00:14:51.000 --> 00:15:01.000
+This person joins, and then we get this team, and then does our knowledge go into our skills for specific departments, or does it go into a skills folder with sub-departments? Like, don't
+
+00:15:01.000 --> 00:15:05.000
+Don't… don't do that, like, don't worry about that, don't get stuck
+
+00:15:05.000 --> 00:15:09.000
+Also remember that you can
+
+00:15:09.000 --> 00:15:26.000
+basically rearrange this thing in about 5 min using Claude code whenever you want in as many ways that you want, and as many different like iterations that you want. So don't get stuck in the inertia of, like, I don't really know what to do right now, and I'm not gonna… I'm not gonna actually create this thing.
+
+00:15:26.000 --> 00:15:42.000
+So that's the file system. Again, I highly recommend looking at the one that Parker has. It's really, really nice. It's a good framework for how to think about it, and to understand what a company brain actually means. An AI company brain actually means in practice
+
+00:15:42.000 --> 00:15:53.000
+And then the next really important part is a way to share integration. So the systems that you connect to across your entire business and have those
+
+00:15:53.000 --> 00:16:12.000
+like, inherently linked to this concept of the brain. Don't have them as two separate things. In HQ, the way that we manage this is we call HQ a meta-harness, and you guys may have seen talk if you're on Twitter or LinkedIn on the idea of a, like, a vertical-specific harness or a company harness
+
+00:16:12.000 --> 00:16:29.000
+I like to think of HQ as a company, Hannes. What that means is it's instructive to AI on how to interact with your company systems and how to interact with the knowledge layer. What that means in practice is it just changes the Claude.md or agents.md a little bit
+
+00:16:29.000 --> 00:16:58.000
+But what I'm saying is make sure that when you have your company brain activated, like when you're telling Claude about your company brain, make sure it also knows about your integrations and think about your integrations as like free context. Like, think about how much work needs to go in to get something into your company brain versus I just connect Parker and now I have like millions and millions and millions of rows of data of context that I can use for my business. I also like I get my account data and I get like previous ads that I created. And, you know, there's like a huge wealth of content
+
+00:16:58.000 --> 00:17:20.000
+context, and now imagine you connect Notion and you connect Fireflies or Fathom and your note taker. You now have such a wealth of context that it's really giving you free context. And if you want to operationalize this and roll this out inside of your business, the easiest way to do it and to prove value to your team really quickly is not to first do the company brains, it's first to connect your systems
+
+00:17:20.000 --> 00:17:33.000
+And say to your team, look, now we can just pull from our ad account, and we can pull from ClickUp, and we can pull from our notetaker really, really easily, and everyone can do that, and that's how you create a wow moment. So
+
+00:17:33.000 --> 00:17:49.000
+That's the next important one. In practice, the 2 ways to do that one is through connecting Mcps. The other is through connecting by Api. Both are good solutions. The way at Hq that we do this is we have our HQ
+
+00:17:49.000 --> 00:18:05.000
+MCP Gateway, which means you just connect all your MCPs into HQ, and now you connect to the HQ MCP, and now it can talk to all the other MCPs at once. Like, for example, this is how I connected Parker to HQ, and I can share it with my team. I connect Parker into HQ.
+
+00:18:05.000 --> 00:18:29.000
+And then I'm able to talk to the HQMCP, but it talks to all my MCPs. The beauty of that is now I connect my MCP into Claude Code, my HQ MCP into Claude Code, and now I have all of those MCP set up. I connect my MCP to my agent in Slack, and now it has all of those MCP set up. I do the same with Codex or ChatGPT. It gives me like a little portable
+
+00:18:29.000 --> 00:18:34.000
+A little portable piece of software that I can now use to connect to all my other systems.
+
+00:18:34.000 --> 00:18:49.000
+The other way is to connect API keys. So this is not… there has not historically been a great solution to this, because all the solutions were built for developers, and they required some level of complexity for sharing API keys
+
+00:18:49.000 --> 00:19:03.000
+At HQ, we have a product called HQ Secrets, which is like a it's basically like one password for agents, but you can also use something like 1Password. Just remember to
+
+00:19:03.000 --> 00:19:17.000
+Don't be pasting API keys into Slack, don't paste them into Claude code. Like, if you try to paste an API into Claude code, it will absolutely freak out on you and treat you like an idiot. There's better ways to do it.
+
+00:19:17.000 --> 00:19:32.000
+Think of API keys as passwords as passwords for the software that you use. And so treat them accordingly. But once you have a way to store your API keys, a way to store your MCPs, now you're able to connect to all of your systems.
+
+00:19:32.000 --> 00:19:39.000
+I see lots of questions coming in. Should I, is now a good time to answer those?
+
+00:19:39.000 --> 00:19:50.000
+I would say keep going because there's a chance you might answer them by the end of this and I'll tee you up with an easy question once you're done presenting.
+
+00:19:50.000 --> 00:19:57.000
+Okay, cool. And I see some names that I recognize, which is fun as well. Okay.
+
+00:19:57.000 --> 00:20:17.000
+So, the basic idea with the sync that I said, saving you insight, sync it, HQ syncs it, everyone in the team gets to use it. We're not probably not the same kind of marketing team that you guys are, but, like, just to give a little anecdote of how we've been able to
+
+00:20:17.000 --> 00:20:29.000
+How we do this as a marketing organization and our team. I like to use this whenever I'm giving some kind of talk or presentation, because it's very visual. I'm basically like
+
+00:20:29.000 --> 00:20:46.000
+Autistically challenged, like, I'm really, really bad when it comes to, like, design aesthetic, or any kind of art. Alex and Jimmy's sort of presentation I did about a year ago, and it was, like, the most disgusting, ugly thing in the world, and I think they can both acknowledge that, like, the deck that we have set up right now is probably
+
+00:20:46.000 --> 00:20:56.000
+quite a bit nicer than the one that I did on that day when we were at that format event. The reason why is because we have someone in our team
+
+00:20:56.000 --> 00:21:12.000
+who is actually pretty good at creating decks, and who is quite autistic and has designed taste. And so, she created a deck, and then now that is the baseline that we use to create all other decks for our, within our organization
+
+00:21:12.000 --> 00:21:32.000
+And she, like, we didn't really have to do anything explicit to make that work, she just created that deck, and it just magically showed up on my computer, and then when Claude created the next deck, it used hers as a baseline. That's the power of syncing, when someone has a new insight, or someone produces something new.
+
+00:21:32.000 --> 00:21:38.000
+And the team being able to use it instantly, and that's how everyone kind of gets better all at once.
+
+00:21:38.000 --> 00:21:53.000
+So this is a demo that I want to show, but my marketing agent ran out of Grok and Codex credits at the same time, so I still need to actually a couple seconds to check that. But
+
+00:21:53.000 --> 00:22:02.000
+Yeah, that's everything. So I can double check to see if that demo is ready. Otherwise
+
+00:22:02.000 --> 00:22:05.000
+Yeah.
+
+00:22:05.000 --> 00:22:12.000
+Yeah.
+
+00:22:12.000 --> 00:22:13.000
+Yeah.
+
+00:22:13.000 --> 00:22:14.000
+One other thing Jacob, that I think would be really helpful is, so you have HQ as a product. Can you just kind of show us what it actually means to have HQ and like what it looks like when you're using AI
+
+00:22:14.000 --> 00:22:19.000
+Yeah, yeah, that was the idea of the demo. Let me
+
+00:22:19.000 --> 00:22:24.000
+Stop sharing my screen, switch to Claude.
+
+00:22:24.000 --> 00:22:28.000
+So
+
+00:22:28.000 --> 00:22:42.000
+Whoops
+
+00:22:42.000 --> 00:22:43.000
+Yeah.
+
+00:22:43.000 --> 00:22:44.000
+Like, even you could start from the very beginning, too. Like, if someone downloads HQ, what are they gonna expect? How does it kind of… do you have to go and create all the context, or is, you know, HQ automatically doing that? Walk us through it.
+
+00:22:44.000 --> 00:22:48.000
+Yeah, absolutely. So
+
+00:22:48.000 --> 00:22:57.000
+I'm gonna show you guys on a completely fresh computer that I set up for you. So.
+
+00:22:57.000 --> 00:23:03.000
+This is a completely fresh
+
+00:23:03.000 --> 00:23:06.000
+Virtual machine running on my Mac.
+
+00:23:06.000 --> 00:23:24.000
+When you use… so you go to if you want to if you guys really want to set up HQ, it's free. You can go ahead, you can click get started, you can go ahead and sign up, create your company, and then download it. The website is HQ4Work.com
+
+00:23:24.000 --> 00:23:39.000
+And then you're basically going to install an application on your computer, which looks like this. This is HQ. So there's two primary ways to use HQ. You can use Claude code, which looks like this. Let's see, I actually
+
+00:23:39.000 --> 00:23:41.000
+Here, I have a
+
+00:23:41.000 --> 00:23:47.000
+Oh, I can't damn it. Oh, maybe I can.
+
+00:23:47.000 --> 00:23:58.000
+This is like a really good example. 20 hours ago, I was trying to prepare for this talk
+
+00:23:58.000 --> 00:24:14.000
+And I just said, can you find my call with Jimmy? And then it, like, found my call with Jimmy, and then it, I was like, can you help me plan for my call with Jimmy? Like, this is basically what it looks like. I'm just continuing to
+
+00:24:14.000 --> 00:24:30.000
+So the HQ folder is now a folder which lives on my computer and it has all of that context that we discussed, all that file system based context, which I kind of went over and pitched you guys on the value of
+
+00:24:30.000 --> 00:24:40.000
+HQ also comes with an app, and the initial purpose of that app was just to manage the syncing, right? So, like, I have this file system
+
+00:24:40.000 --> 00:24:58.000
+And then I have an app which syncs the file system to the rest of my team, and then the rest of my team who also have the app syncs down the context. And now we're all working together, working at the same time. I do something, I ship a skill, it ships to the rest of my team, blah, blah, blah.
+
+00:24:58.000 --> 00:25:17.000
+So that's the kind of the power of this app and this file system together. But HQ has a little bit more magic than that, which is where that harness that I that I discussed, which is like it's influencing the claw.md, and you also get a ton of skills that come along with it to help you manage it.
+
+00:25:17.000 --> 00:25:36.000
+I don't want to go into too much detail. I don't want to, like, really give a demo, necessarily, of HQ. I just want to show you guys that ultimately, like, the way that you really interact with this thing is, like, you just continue talking to Claude like you're not… you're really not changing your workflow too much. You're still working in Claude code
+
+00:25:36.000 --> 00:25:52.000
+You just now have this brain that is activated and I can now set this folder as my folder in codecs. I can set this folder as my folder in ChatGPT or Grok, and I can just continue using it the same way. And all of this context is going to get automatically accumulated as I work
+
+00:25:52.000 --> 00:26:01.000
+Then what happened was a huge amount of our user base did not use
+
+00:26:01.000 --> 00:26:16.000
+didn't want to use Claude Code. It was kind of a step too far for them. I know that's, like, literally the opposite of, like, the premise of this entire talk, but, like, it was a little bit too hard for them to use Claude code. And so what we did was we built our own little bots
+
+00:26:16.000 --> 00:26:32.000
+But these bots just wrap Claude code for you. So you can see this is the setup bot that you'll talk to if you go ahead and you set up HQ, and it helps you set it up for you. But this is just… I'm talking to Claude Code, I'm talking to Claude Code with the
+
+00:26:32.000 --> 00:26:44.000
+HQ folder set up, we've just made it a little bit nice and a little bit easier to talk to them, because they have their own name and picture and personality. But it's ultimately just talking to Claude Code as well.
+
+00:26:44.000 --> 00:26:58.000
+So this is kind of similar to something like Grokbot, but this is what HQ looks like. And if you were to install it, you would talk to the setup bot and the setup bot would help you with the install process.
+
+00:26:58.000 --> 00:27:11.000
+Has that any questions there from anyone?
+
+00:27:11.000 --> 00:27:15.000
+Yeah.
+
+00:27:15.000 --> 00:27:16.000
+Yeah.
+
+00:27:16.000 --> 00:27:20.000
+One question, Jacob, I know you talked about this idea of being able to pull in your tools and that kind of adds in context. So say it's like Slack or Notion or linear or wherever you might be working. Do you have to do that within HQ or does that just exist within your
+
+00:27:20.000 --> 00:27:34.000
+Claude, and it, like… or I guess doesn't automatically sync to your HQ to update. Like, if we're having a conversation in Slack, will the brain automatically update based on that conversation, even if I don't use it inside of, say, Claude Code?
+
+00:27:34.000 --> 00:27:54.000
+Yeah, if you set it up like that, yeah, it does. So this is kind of where I said in the beginning that these things need to be flexible and dependent on the company themselves. Some people don't want Slack coming in. Some people do. So, like, the… yeah, so for example, you can automatically be syncing in your notes. Like, when I said, can you pull my call from
+
+00:27:54.000 --> 00:28:07.000
+Jimmy, like, I didn't have to do any work in Claude Code to get that transcript in there. It was just automatically connected through my integrations, and then it pulled everything in. Same with, like, the
+
+00:28:07.000 --> 00:28:22.000
+with, like, the Pocket MCP that I have set up, and I can kind of show what that looks like. But it's the same… it's the same idea. I'm able to use it, it's pulling things into HQ automatically without me needing to explicitly do anything.
+
+00:28:22.000 --> 00:28:25.000
+So, let me show you really quick
+
+00:28:25.000 --> 00:28:38.000
+Cool.
+
+00:28:38.000 --> 00:28:41.000
+What's up, Barry?
+
+00:28:41.000 --> 00:28:57.000
+You know what's funny? Barry put in the chat, please order my usual Gibrali order. I actually won, like, a few weeks ago, did get Claudeco to order me DoorDash. Just… I was just curious if it could, and it already has access to all of my
+
+00:28:57.000 --> 00:29:01.000
+fitness goals and all of our
+
+00:29:01.000 --> 00:29:07.000
+All of my eating and I said go and orderly breakfast and ordered me eggs and have on toast. It was really nice, so
+
+00:29:07.000 --> 00:29:08.000
+Nice.
+
+00:29:08.000 --> 00:29:09.000
+Not the story there
+
+00:29:09.000 --> 00:29:11.000
+So
+
+00:29:11.000 --> 00:29:13.000
+We can
+
+00:29:13.000 --> 00:29:25.000
+Watch this run. I created a skill pull from Paco, which pulls context from PACA. This is a demo because I'm not actually like, this is a demo. Okay.
+
+00:29:25.000 --> 00:29:31.000
+I couldn't reach back from the session. Great. The demo didn't work. But
+
+00:29:31.000 --> 00:29:34.000
+Okay, ignore, ignore that that happened
+
+00:29:34.000 --> 00:29:48.000
+But the general idea is it would use the HQMCP. I can see why. I may not even be set up, but it's going to use the HQMCP to pull from there. Let's see why it didn't. Maybe it's not on
+
+00:29:48.000 --> 00:29:50.000
+Yeah, I need to reconnect it.
+
+00:29:50.000 --> 00:29:57.000
+So this is, I guess this is worth showing. I'm connecting to the Hqmcp like this
+
+00:29:57.000 --> 00:30:07.000
+And then now it's able to pull from the Parker MCP or the HQ MCP and then able to pull from Parker. It just wasn't set up.
+
+00:30:07.000 --> 00:30:11.000
+Okay, cool.
+
+00:30:11.000 --> 00:30:19.000
+So now I could go into a new session. I can use my skill. And the idea with HQ is that it has
+
+00:30:19.000 --> 00:30:39.000
+everyone would get the skill now inside of my organization. Everyone is connected to PACA through the MCP. And then whatever I… whatever make adjustments I make to the skill to make it better, to make it more performant, or to improve it, or to, like, say, reference my previous reports that live in HQ, or…
+
+00:30:39.000 --> 00:30:54.000
+Always look at the most recent call, like, that just gets automatically pushed out to the rest of my team, so that they benefit from the same from the same thing as well. So while Claude figures out if we can start up or not
+
+00:30:54.000 --> 00:30:57.000
+Why don't I start answering some questions?
+
+00:30:57.000 --> 00:31:14.000
+Yeah, so one, I think that's just simple. And you say like how real time syncing, does that literally mean real time, meaning if we are all working from HQ and, you know, you find something in this thread that you like and you're like, okay, add that to our ideas
+
+00:31:14.000 --> 00:31:22.000
+You know, is it literally, like, within minutes, that's gonna be available for someone else to be able to have access to, and just, like, how does that work?
+
+00:31:22.000 --> 00:31:32.000
+Yeah, yeah, it is real time. It's based on an event system. So if our application picks up
+
+00:31:32.000 --> 00:31:37.000
+If our application picks up that a file changed, it will automatically sync that into the cloud
+
+00:31:37.000 --> 00:31:54.000
+and then everyone else's machine is also automatic is pulling down from the cloud all the time. So it is pretty close to real time. It depends on the size of your HQ brain. Ours is like 70 gigabytes, so it can sometimes take like 2 min
+
+00:31:54.000 --> 00:31:57.000
+But for most users, it will take a couple seconds
+
+00:31:57.000 --> 00:32:17.000
+Cool. One question on that. How do you then control what does get added? Like, let's say that we're talking within Claude and I'm like, hey, Alex is just really not doing a great job. I got to let him know, or how can I like in the nicest way say that we got to let him go from the team
+
+00:32:17.000 --> 00:32:31.000
+And then all of a sudden, that's like in the brain and Alex is talking and for whatever reason, it brings that up. Walk me through like how you protect against sensitive information being shared.
+
+00:32:31.000 --> 00:32:39.000
+Yeah, I'll just share this with everyone really quick. I think Claude's having a partial outage, which is great.
+
+00:32:39.000 --> 00:32:58.000
+But which is why that's taking so long. But, basically, the way that you do it is, inside of HQ, there are, there's different read and write access permissions that are configured. So for any file or folder inside of HQ
+
+00:32:58.000 --> 00:33:20.000
+You can decide whether or not someone is allowed to read or write to that file. That means the way that you can set that up is everything produced is automatically only shared with you, and then you can choose to share it with other people if you want to. And so it's impossible for things that you create to get shared with Alex if he's not, if he doesn't have access to view that
+
+00:33:20.000 --> 00:33:36.000
+Inside of HQ, there's also a personal vault, and the personal vault is where personal information goes. And so it can keep things that shouldn't be seen by anyone in the company outside of the company.
+
+00:33:36.000 --> 00:33:49.000
+And then for things that are, like, truly, truly classified, like medical information or something like that, I tell people to deactivate the HQ folder. But yeah, that's how it's… that's how it's managed.
+
+00:33:49.000 --> 00:34:05.000
+Cool. Okay, now the big question that we've been getting, which is, do you need GitHub if you have HQ or walk me through why we would need HQ instead of GitHub
+
+00:34:05.000 --> 00:34:10.000
+Why HQ instead of GitHub?
+
+00:34:10.000 --> 00:34:11.000
+Okay.
+
+00:34:11.000 --> 00:34:14.000
+Yeah, or just like how they work together or do you need them both or just the relationship between the two?
+
+00:34:14.000 --> 00:34:31.000
+it to properly operationalize a company brand across your company, you needed to be really easy to use. Like, that's the… that's the most basic idea. If it's not really easy for everyone to use, and it misses context, then it's losing value. So
+
+00:34:31.000 --> 00:34:38.000
+That's a really important rule for everyone to understand. And if you're trying to make
+
+00:34:38.000 --> 00:34:55.000
+team of people who are not familiar with GitHub use GitHub, like push to GitHub and pull to GitHub and okay, Claude just created a branch for me and then it made a pull request. Should I merge that pull request? Like I've got conflicts like that just
+
+00:34:55.000 --> 00:35:11.000
+It becomes too complex. It's very, very hard to operationalize. And then just kind of falls apart is what I've seen. Now, GitHub absolutely can work for if
+
+00:35:11.000 --> 00:35:27.000
+If you're an organization that can figure out how to operationalize that, it can work, but it's often just too complex. And so what we've done with HQ is it just reduces all of the all of that complexity. It removes all of that complexity, takes care of the syncing for you, takes care of the conflict resolution for you
+
+00:35:27.000 --> 00:35:31.000
+And that's why it replaces something like GitHub.
+
+00:35:31.000 --> 00:35:39.000
+But it's not, I see your question, Sandra. It's not a salute alternative to GitHub
+
+00:35:39.000 --> 00:35:54.000
+We recommend you continue to use GitHub for code repos, for code repositories, and use HQ for your non-code
+
+00:35:54.000 --> 00:35:57.000
+your, like, non-code context, your non-code files. So like
+
+00:35:57.000 --> 00:36:01.000
+Why is that of interest?
+
+00:36:01.000 --> 00:36:08.000
+Because all of those things that I said were really complex for people to use for GitHub are actually like
+
+00:36:08.000 --> 00:36:20.000
+really important for managing code across a company. And so by us reducing all of the complex, all of that complexity, we've actually lost certain things that you would need to manage a code repo.
+
+00:36:20.000 --> 00:36:37.000
+Makes sense. I like that. Jacob, Simon asks, as we build the brain and it evolves, how can we best avoid clashing rules, skills, directives, stale markdown files, etc. Basically, brain hygiene
+
+00:36:37.000 --> 00:36:55.000
+So there is a system inside of HQ called gardening, which is happens automatically after certain conversations, but also you can invoke manually, which helps you find conflicting or stale context and getting rid of those
+
+00:36:55.000 --> 00:37:19.000
+Also, because HQ is embedded into your use of AI, it will surface those issues to you very quickly. So like, for example, if something is incorrect, like there is an incorrect rule that has been set in HQ, you'll experience that very quickly and you'll be able to get rid of that. And I actually say like this is more of a feature than a bug because like
+
+00:37:19.000 --> 00:37:30.000
+People often ask me like, what if someone just put something completely wrong into HQ and then it propagates to the rest of the organization? And my answer is like
+
+00:37:30.000 --> 00:37:40.000
+Why do you have someone in your team who is saying something completely wrong, and wouldn't you rather know about that than not know about it? And and so that like
+
+00:37:40.000 --> 00:37:57.000
+That having the ability to surface that very quickly is quite nice. And so it gets rid of… so it will get rid of stale context, it will get rid of contradictory context. It will organize it for you because of that harness that I mentioned before, it's told how to
+
+00:37:57.000 --> 00:38:13.000
+How to get rid of things, but I will say, like, I'm not going to promise anyone that it's gonna completely… it's gonna be, like, a complete soul for incorrect context inside of the organization, but that's a problem that you should… needs to be solved outside of the brain layer, rather than.
+
+00:38:13.000 --> 00:38:18.000
+A solution the brain needs to solve
+
+00:38:18.000 --> 00:38:20.000
+Yeah, for sure.
+
+00:38:20.000 --> 00:38:24.000
+What else have
+
+00:38:24.000 --> 00:38:25.000
+We got in here
+
+00:38:25.000 --> 00:38:40.000
+One… yeah, one other question, people are asking is like, how do you know if something is just being saved locally on your computer versus in the cloud in HQ, or does it always just save in the cloud? Walk us through that.
+
+00:38:40.000 --> 00:38:44.000
+It will always save in the… so if you're on a
+
+00:38:44.000 --> 00:39:01.000
+If you have HQ set up with that app, then it will always sync to the cloud. If you don't want it to sync to the cloud, you can turn off that app. But everything gets synced to the cloud. If you don't want H2 to sync something to the cloud, you can just
+
+00:39:01.000 --> 00:39:06.000
+stop using that folder, which is your way to kind of avoid that. But like
+
+00:39:06.000 --> 00:39:23.000
+Only things inside of the HQ folder are getting synced up. We're not looking at the rest of your computer, like your desktop and your documents and your downloads and syncing those, it's only everything in the scope of that folder. And then just remember, there's companies and there's personal. And for any agency people in here.
+
+00:39:23.000 --> 00:39:36.000
+Inside of HQ, you can set up multiple different companies. So think of this like a Slack workspace. Like in Slack, you can belong to multiple different workspaces. Similar idea with HQ. For example, my HQ, I have like
+
+00:39:36.000 --> 00:39:51.000
+30 different companies that I'm a part of, and I can work within each of those company brains independently from one another. So if you're someone who works with different companies who needs that separation of context, or you're someone who operates different companies, or you're a freelancer that works with different companies
+
+00:39:51.000 --> 00:39:53.000
+That's a really nice solution for you.
+
+00:39:53.000 --> 00:40:09.000
+One other question I have for you as well. So let's say that your company was super claude pilled and like you built out a ton of skills inside of Claude and you have a bunch of projects and contact stocks and all of that
+
+00:40:09.000 --> 00:40:24.000
+And you are hearing this terminology of, like, own your intelligence, like, have a, you know, you're not something attached to a model where everything is being stored and lived. How easy is it to take something like your environment inside of, you know, Claude
+
+00:40:24.000 --> 00:40:40.000
+whether it be Claude Code or co-work, and, like, get the skills and contact stocks and whatnot into HQ. Is that a simple process? Is it kind of having to restart from zero? I'm curious on if people wanted to make that switch, what it would look like
+
+00:40:40.000 --> 00:40:55.000
+It's super easy. Let me just… sorry, I didn't want to interrupt you pulling the screen, I'll just show you guys, like, it ran, and then it found the Pocket tool and the integrations, and then used it, and then found this data. So, just so people can see what that looks like, it used the HQ,
+
+00:40:55.000 --> 00:41:14.000
+MCP, and then was able to pull from PACO. It's super easy, and what HQ will actually do in the setup process is it will search through your entire… your Mac. It will look through all of your Claude and ChatGPT sessions. It'll find skills, find projects, and then recommend what you want to bring in
+
+00:41:14.000 --> 00:41:17.000
+So that setup agent that I showed
+
+00:41:17.000 --> 00:41:29.000
+Will actually help you do that. To move files using AI is very easy, so as long as you use AI to do this, it's a very simple and straightforward process.
+
+00:41:29.000 --> 00:41:32.000
+Cool.
+
+00:41:32.000 --> 00:41:49.000
+Luis had one question on setting up like probably diving deeper into the agency setup. So would you have one HQ for your own agency and then separate HQs for each client project? Or can you get like a little more granular
+
+00:41:49.000 --> 00:41:55.000
+In terms of, like, what it literally looks like if you are an agency owner and you have multiple files
+
+00:41:55.000 --> 00:42:09.000
+Yeah, so we have a client, we call it the Client Services Pack, and it basically combines these two things together. So inside of your HQ, like, let's just say
+
+00:42:09.000 --> 00:42:27.000
+We call it the like marketing agency inside of the marketing agency. Hq. We'll set up a client's folder, and then inside the clients folder, it will set up each of your clients, but then it will also set up an independent HQ company for each of your clients. So that allows you to have both set up inside of your
+
+00:42:27.000 --> 00:42:43.000
+company, but then also have them set up as independent companies. The reason why that's nice, and the reason why it's nice to do it as separate companies, is because if you want to deploy some agent or invite a team member, or even invite a member of that client into your HQ,
+
+00:42:43.000 --> 00:42:56.000
+You do want to have that separation, but then you also want to have the simplicity of just having one company as well. So our client services pack combines those two things together. But if I were to choose
+
+00:42:56.000 --> 00:43:07.000
+Ultimately, what is the simplest thing to do? It's just to have client folders inside of your marketing agency HQ company.
+
+00:43:07.000 --> 00:43:24.000
+But you're losing a little bit of the magic of being able to, like, really have, like, silo out everything, and then invite different people into it and create agents that have no context of any of the other companies that you work with. Like, for example, if you want to put it in a client Slack channel, for example, you wouldn't be able to do that.
+
+00:43:24.000 --> 00:43:39.000
+Got it. So just to get like crystal clear, if you open up a new Claude Code session, would you still select just the HQ folder or is there essentially a sub folder within there that you would select
+
+00:43:39.000 --> 00:43:59.000
+You always select the HQ folder. So you're always working in the HQ folder like this. If you want to specify the company that you're working on, if you are someone who has multiple different companies, you use this start work command. So I would say like start work
+
+00:43:59.000 --> 00:44:05.000
+Marketing agency that's like tells Claude and I'm working on the marketing agency or I can say start work
+
+00:44:05.000 --> 00:44:21.000
+Brand one. But I don't like this level of granularity is not really actually necessary. You can just tell Claude, like, I want to work on AG1 today, and it will know, it will know what to route to, but you're always going new session
+
+00:44:21.000 --> 00:44:27.000
+And you're always in this HQ folder, always. And Claude will route to the right company.
+
+00:44:27.000 --> 00:44:32.000
+Cool. Okay. Yeah, I think that makes sense.
+
+00:44:32.000 --> 00:44:39.000
+Just to, and I said this last week, but just to give you our take on
+
+00:44:39.000 --> 00:45:02.000
+The agency shared brain setup again, like Jacob said, there is no there is no right way to to do this. But this is how we've got ours set up. So just like he was saying, we have, like, an org, or, like, a folder for every company brain, and each one of these are basically a client brain with all the content inside of here. And then we have one folder
+
+00:45:02.000 --> 00:45:13.000
+Core company, which has got all of the, like, non-client-specific context for the, entire org, inside of there. But again, like, that's just how we have it set up.
+
+00:45:13.000 --> 00:45:30.000
+I think like, and I honestly trust you guys more than I trust myself to build like a good solution for a marketing agency. I've seen both solutions work. I think what you did is the best is like the easiest way to do it. And ultimately, as I said in the beginning, you want to be able to operationalize it across your company. So
+
+00:45:30.000 --> 00:45:39.000
+Designed it in a way that's the easiest for your whole team to adopt. And if having separate companies for each one of them is too confusing and reduces adoption, then you don't want to do that.
+
+00:45:39.000 --> 00:45:55.000
+Yeah, yeah. Also just want to like emphasize the importance of everything Jacob spoke about today because, you know, we did the course last year that some of you here would have been in and we spoke about a lot of things in that course
+
+00:45:55.000 --> 00:46:11.000
+One of the things that we covered was context engineering and the importance of context. That was before anyone was talking about context engineering. That became the one thing from that course that I would say is arguably even more important today than it was 12 months ago. I think
+
+00:46:11.000 --> 00:46:22.000
+The idea of a shared brain is the equivalent in this course. Like, that is the thing that I am very confident on, that, like, every company needs and will need
+
+00:46:22.000 --> 00:46:25.000
+Throughout the next 6 to 12 months
+
+00:46:25.000 --> 00:46:42.000
+So even though this is not what we usually in these sessions cover just purely creative strategy and use cases, like for your entire org to implement something like this, there is no way in which this is not going to make you more effective as an overall company over the next 12 months
+
+00:46:42.000 --> 00:46:58.000
+I can't stress enough how much of an impact it's had on our company. Like it's literally had such like if I were to get fired from HQ, like start a brand new company, a completely separate organization
+
+00:46:58.000 --> 00:47:17.000
+The first thing I would do is still start a company brain. Like, and I can't imagine using AI without it. It's so profoundly impactful when you set it up and you're like, holy shit, Claude understands me. Like Claude actually knows my business now. And that thing that Jimmy did last week, like what I can just work on that with him? Like, it's so profoundly impactful that
+
+00:47:17.000 --> 00:47:28.000
+I highly recommend everyone, regardless of like whether you use HQ, whether you use GitHub, whether you use Notion or the Parker brain like definitely set it up. It will make a huge difference to your business.
+
+00:47:28.000 --> 00:47:44.000
+Yeah, I don't need to beat the dead horse because it is entirely true. Jacob, I'm curious to get your thoughts. Why would someone not just utilize like a very effective Notion wiki and Notion's kind of teased that they're coming out with some sort
+
+00:47:44.000 --> 00:48:01.000
+you know, brain capability as well. So what would be, like, the difference then between, like, Google Drive or Notion or some… like, Obsidian is obviously more for personal reasons, but some of these more, legacy players versus something like HQ
+
+00:48:01.000 --> 00:48:09.000
+So Notion was not designed for this purpose. And so like it's underlying
+
+00:48:09.000 --> 00:48:18.000
+Like the systems that the the way that AI talks to notion is not very efficient. And so it's
+
+00:48:18.000 --> 00:48:38.000
+Like the actual APIs that Notion uses are very inefficient. And so it doesn't work very well with Claude. The other thing is that it's so hyper designed for people that this idea of like, I'm going to let Claude go wild on a folder on my computer. That's fine, but am I going to let Claude go wild on my Notion
+
+00:48:38.000 --> 00:48:58.000
+Account, which is, like, super precious to me, and has been so, like, preciously designed to work for me and my business, for me to understand. People, like, there's, like, a friction there, and so it reduces adoption. And it's also, like, so buggy, like, I don't know if you guys have used the notion, like, notion APIs, but it's so buggy that like
+
+00:48:58.000 --> 00:49:15.000
+Again, it doesn't… it's difficult to adopt. But it may very well work. It may very well work when they come out with this version that's locally on your computer. Google Drive don't use because you need version control and you need access built in very easily
+
+00:49:15.000 --> 00:49:20.000
+And so Google Drive just doesn't really work very well like that, like a shared Google Drive folder.
+
+00:49:20.000 --> 00:49:31.000
+Got it. So is it kind of this assumption that Notion is going to be coming out with like Git a Git capability and therefore can manage files
+
+00:49:31.000 --> 00:49:36.000
+And edit, and, you know, create, read, update, delete
+
+00:49:36.000 --> 00:49:37.000
+I think
+
+00:49:37.000 --> 00:49:45.000
+Better than it does today.
+
+00:49:45.000 --> 00:49:46.000
+Yeah.
+
+00:49:46.000 --> 00:49:52.000
+I think they might. I think they might. But again, like the the way that this system is built is all databases and not files like notion. Everything is databases, not files. So I'm curious to see how it works in practice. But I think they might try to do that.
+
+00:49:52.000 --> 00:49:59.000
+Yeah, interesting. Interesting.
+
+00:49:59.000 --> 00:50:21.000
+Let's see, what other questions are is there version control for, like, context if it was taken away within HQ? So if I, you know add… like, I guess, yeah, maybe as things progress over time, how does it know, you know, what is the most up-to-date, and like, is that baked in compared to something that we said a year ago? And then also
+
+00:50:21.000 --> 00:50:27.000
+version control to see, like, what gets changed, and if we can revert back.
+
+00:50:27.000 --> 00:50:40.000
+Yeah, there's version control for everything for all different versions and all different updates, and it is actually quite easy to roll back if you need to, which is nice. It's like a little time machine.
+
+00:50:40.000 --> 00:50:45.000
+Cool. And how about just the idea of as new information comes in
+
+00:50:45.000 --> 00:51:00.000
+How does it know what to pull world of business, you change all the time, right? I'm sure even Hq. Like things have evolved a lot over the past 6 months. How does it know from like an information perspective what
+
+00:51:00.000 --> 00:51:05.000
+it should pull from. Is it all recency-based, or walking through?
+
+00:51:05.000 --> 00:51:19.000
+So there's an element of recency, there's like hot something that I call hot context and cold context. Cold context is like your knowledge, like your company knowledge. For marketing, this might be like
+
+00:51:19.000 --> 00:51:28.000
+like, brand guidelines, and, like, like, design style and stuff like that. Like, that stuff doesn't really need to get
+
+00:51:28.000 --> 00:51:48.000
+Updated frequently, and so, like, it doesn't need a notion of, of freshness there. But then for HUT context, which are like Slack conversations and meetings, and also projects that you've worked on, then it will look at the most recent context there and wait that more heavily, unless you explicitly told it
+
+00:51:48.000 --> 00:51:54.000
+I, like, go look back and look in the past, but it will differentiate between those two things
+
+00:51:54.000 --> 00:51:57.000
+Cool.
+
+00:51:57.000 --> 00:51:59.000
+We have an interesting question
+
+00:51:59.000 --> 00:52:10.000
+Jamie, or Jammy on the malicious employee
+
+00:52:10.000 --> 00:52:11.000
+Yeah.
+
+00:52:11.000 --> 00:52:20.000
+I do want to answer that because I've gotten this quite a lot actually. You can limit their access. So you can limit access across the entire file system to what's only relevant to them.
+
+00:52:20.000 --> 00:52:36.000
+So they can't get everything. And then you can, if you revoke access, then they won't be able to download any files anymore. So unless they're being like super malicious and like saving things along the way in like different, like different checkpoints, I guess
+
+00:52:36.000 --> 00:52:44.000
+In the same way that they could do with Google Drive or Notion or something, then you can protect against that.
+
+00:52:44.000 --> 00:52:55.000
+One other question, because I'm curious about it. You showed the HQMCP. I didn't even know that you guys had an MCP. What is the use case for that again?
+
+00:52:55.000 --> 00:52:59.000
+Well, the HQMCP is that
+
+00:52:59.000 --> 00:53:13.000
+Integration Gateway into, like, all your different MCPs. So the way that it spoke to Parker was through the HQ MCP. So it connect… it went to HQ and then said, I want to talk to Parker, and that's the way that it used the HQMC.
+
+00:53:13.000 --> 00:53:26.000
+Got it. And so that way it makes it so if I set up Parker for our organization, Alex wouldn't need to go and also connect to the Parker MCP. I would just set it up
+
+00:53:26.000 --> 00:53:35.000
+once, essentially, and then Alex would automatically have access to the Parker MCP, even though he didn't set it up. Is that what I'm what I'm getting from that?
+
+00:53:35.000 --> 00:53:47.000
+Yeah, let me show you really quick. I want to show you guys because I think it's actually pretty cool.
+
+00:53:47.000 --> 00:53:49.000
+One second, sorry, I'm just opening this up.
+
+00:53:49.000 --> 00:53:51.000
+No, you're good.
+
+00:53:51.000 --> 00:53:56.000
+So
+
+00:53:56.000 --> 00:54:17.000
+As Jacob is pulling that up, too, just a reminder that we are back on Thursday. Alex is going to be diving deep into the whole static ad process. So Thursday, 12 PM Eastern, we're going to be back. Alex is going to be leading, we're going to be diving deep into the tactical use cases now within Claude Code and Codex
+
+00:54:17.000 --> 00:54:32.000
+For creative strategy, we are done with the fundamentals, so everything from here on out is going to be very specific and use case base. So, make sure you guys show up. And I think you're gonna learn a ton, and you'll finally get
+
+00:54:32.000 --> 00:54:43.000
+the AI or learn how to build an AI static generator skill. Jacob, do you have any experience generating AI statics, by the way, before you dive into this?
+
+00:54:43.000 --> 00:54:48.000
+I'm retired from the AI app game. I'm retired.
+
+00:54:48.000 --> 00:54:53.000
+I do have experience, but not anymore. I can't say I'm good at it.
+
+00:54:53.000 --> 00:54:54.000
+Small
+
+00:54:54.000 --> 00:55:05.000
+People don't even realize Jacob made it on Greg Eisenberg's podcast on how to generate AI static ads when, what was it, chat image gen came out for the first time
+
+00:55:05.000 --> 00:55:10.000
+Yeah, but that's just because no one was doing it, I wasn't any good at it. It was just because no one had done it yet.
+
+00:55:10.000 --> 00:55:13.000
+Yeah, I love it.
+
+00:55:13.000 --> 00:55:33.000
+Okay, I actually want to show that. So this is the HQ console. I didn't show this, but this is a really cool visualization where you can see like how our HQ has evolved over time, how the file system has built and think like every single little dot that builds up is a piece of context that we can use inside of that has beneficial to us
+
+00:55:33.000 --> 00:55:46.000
+And you can see, like, all the different policies that are being created, the knowledge that's being created, the projects that have been worked on, all of our different skills and the repos that we work on, everything like that. So that's kind of a cool visualization of it growing over time.
+
+00:55:46.000 --> 00:55:56.000
+But if we go into integrations
+
+00:55:56.000 --> 00:56:12.000
+Cool. We can search. So you can see like all the different people wanting to use integrations. So what you can do is you can basically connect an app in here. You can also do this through Claude, but you can connect an MCP directly here. And then if we go to the Parker one
+
+00:56:12.000 --> 00:56:28.000
+Here you can see I created the Parker MCP, the marketing agent used it. So you can see who's used it recently. And then you can say who can use it and you can choose to share. I shared it with everyone, but you can
+
+00:56:28.000 --> 00:56:43.000
+Pick individual people or groups of people and share the MCP with them. And so now, anyone who now installs the HQ MCPs gets all the MCPs that they have been given access to and that have been configured by the rest of the company.
+
+00:56:43.000 --> 00:56:45.000
+Yeah, that's really cool.
+
+00:56:45.000 --> 00:56:48.000
+That's sweet.
+
+00:56:48.000 --> 00:56:52.000
+Cool. Any Alex, are you seeing any other questions or
+
+00:56:52.000 --> 00:56:53.000
+Okay
+
+00:56:53.000 --> 00:57:02.000
+Nothing else, this stand out to me. Jacob, are you speaking, next week at Commerce Roundtable?
+
+00:57:02.000 --> 00:57:04.000
+I am. Are you going to be there?
+
+00:57:04.000 --> 00:57:13.000
+I plan to be, yeah. I bought my ticket. Is anyone else, by any chance, going to Commerce Roundtable next week in San Diego?
+
+00:57:13.000 --> 00:57:20.000
+Hey, there we go.
+
+00:57:20.000 --> 00:57:28.000
+Commerce Roundtable. I went last year. I spoke that last year. It was really good and well put on
+
+00:57:28.000 --> 00:57:30.000
+Very sick. Well
+
+00:57:30.000 --> 00:57:32.000
+What was you guys at then?
+
+00:57:32.000 --> 00:57:38.000
+Please say hi. If you come and
+
+00:57:38.000 --> 00:57:50.000
+We are going to be officially launching HQ on stage for general availability. So a little bit of a little secret before we actually do that
+
+00:57:50.000 --> 00:57:51.000
+Whoa
+
+00:57:51.000 --> 00:58:05.000
+Sick. Jeremy just asked, just before we wrap up, using the Parker desktop app versus HQ for syncing, what we covered the other day with the Parker desktop app, we are vertical and we don't have any intentions to
+
+00:58:05.000 --> 00:58:20.000
+Be a brain and an option for you outside of marketing. So if you're building your marketing brain, then like that's where you may want to use what we built with the Parker brain and the desktop app
+
+00:58:20.000 --> 00:58:34.000
+If you're looking for a more robust option for the whole company brain, like, that's why you would use HQ. And, as Jacob said, you can also use the Barker brain inside of HQ, so they're not mutually exclusive. So yeah, we don't be going
+
+00:58:34.000 --> 00:58:42.000
+Outside of marketing, so that's how they could work together, and that's what we do internally
+
+00:58:42.000 --> 00:59:01.000
+Yeah, I would trust Paco with anything marketing vertical related a lot more than I would myself. And that's why we're trying to integrate with Parker as much as we can for our marketing teams because so much great, like vertical specific stuff inside of there. We just want to be a way that you can aggregate that across your company.
+
+00:59:01.000 --> 00:59:07.000
+Awesome. Jika, where can people find you? Where do you want to send them to following this call?
+
+00:59:07.000 --> 00:59:22.000
+You can follow me, Jacob underscore Posal on Twitter or you can sign up for HQ at HQ4work.com. And I will see you and I will
+
+00:59:22.000 --> 00:59:26.000
+I will reach out if I see you signing up.
+
+00:59:26.000 --> 00:59:45.000
+Okay, well, thank you very much, guys. See you on Thursday session is going to be a good one. We're going to be doing the static workflow, which has been highly requested by you guys. So we'll see you there at 12 PM Eastern. Thank you so much, Jacob. I learned a lot in that session. It was really insightful. And we will see you guys all on Thursday.
+
+00:59:45.000 --> 00:59:51.000
+Thank you so much, everyone.
+

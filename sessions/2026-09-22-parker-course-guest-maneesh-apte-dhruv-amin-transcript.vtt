@@ -1,0 +1,875 @@
+WEBVTT
+
+00:00:04.000 --> 00:00:20.000
+What is going on, everyone? Welcome to our guest session today. How is everyone doing? Everyone having a good week?
+
+00:00:20.000 --> 00:00:21.000
+Let's see the
+
+00:00:21.000 --> 00:00:27.000
+Note takers
+
+00:00:27.000 --> 00:00:31.000
+Let's go, let's go, let's go
+
+00:00:31.000 --> 00:00:42.000
+Yeah, week's been good, week's been good, it's flying by. My wife and I have our anniversary this weekend, so we're doing a little getaway, so that will be fun, but
+
+00:00:42.000 --> 00:01:12.000
+Yeah, you know, just staying up to date with all things AI. Have people been exploring with Muse? I know that's kind of been the hottest agent. Yes, thank you guys for the congrats. Has anyone been playing around with Muse
+
+00:01:35.000 --> 00:02:05.000
+who is the CEO and co-founder of Parker, which you guys are all familiar with. He's the technical one in all this, like Alex and I just get to come up here and talk about the product and the marketing and all of those things. Manish is the one that kind of is the brain behind the technical side of putting it all
+
+00:02:41.000 --> 00:02:44.000
+Sounds great.
+
+00:02:44.000 --> 00:02:59.000
+Yeah, hey everyone, it's awesome to be here with you all. My name is Manish. Like Jimmy said, I'm his co-founder with Parker, CEO, and also a technical AI engineer by trade
+
+00:02:59.000 --> 00:03:29.000
+So, Jimmy and Alex have, they're expert marketers, and I've learned a ton from them about the space and one thing that I like to go deep on personally is all of the crazy AI tech related stuff and pushing it super hard
+
+00:03:36.000 --> 00:03:37.000
+possibly think of
+
+00:03:37.000 --> 00:03:53.000
+Me and my buddies have been up to at some point. And so, I've worked in industry as an AI engineer and for the past few years have been a founder and entrepreneur. And so, that's the little background on myself
+
+00:03:53.000 --> 00:04:01.000
+When I was preparing this session, and actually, let me, share my screen here, and we can
+
+00:04:01.000 --> 00:04:09.000
+start
+
+00:04:09.000 --> 00:04:10.000
+Yeah, so I am originally from Fargo, North Dakota. If you can believe that you guys, you
+
+00:04:10.000 --> 00:04:19.000
+And Manish, as you're doing that, quick fun fact, where are you originally
+
+00:04:19.000 --> 00:04:34.000
+I don't know how many you've ever met, one person from North Dakota, but now you have two people up here. So, the common thread is, me and Jimmy are buddies from growing up. And so, we're both from Fargo
+
+00:04:34.000 --> 00:05:04.000
+That's the whole… our whole team in general is… has, like, kind of a Midwest vibe. I know Alex is from the UK, but I feel like he's the most Midwestern UK person I've ever met.
+
+00:05:34.000 --> 00:05:35.000
+Yeah.
+
+00:05:35.000 --> 00:05:49.000
+Yeah, so as Manish is inviting, so there's a tool out there that is called Skydive and you will see what that is. It's very similar to Muse and Grokbot. It's just another one. And Manish is actually friends with the founder of Skydive. So we figured, hey, who better to help with talking through building agents than one of the founders at Skydive. And so we work with them. We use their tool. It's great, super easy to set up
+
+00:05:49.000 --> 00:05:59.000
+Yeah, so essentially, yeah, I can start getting into it and then let me make sure, sorry, one second here
+
+00:05:59.000 --> 00:06:05.000
+Jimmy, I just want to make sure that we have, okay, there we go. Yeah, that's the issue.
+
+00:06:05.000 --> 00:06:11.000
+I sent Dhruv the link on my name. Dhruv, you have to, you have to rename yourself.
+
+00:06:11.000 --> 00:06:14.000
+I have to rename myself, oh, I'm Manish again.
+
+00:06:14.000 --> 00:06:22.000
+That's hilarious.
+
+00:06:22.000 --> 00:06:23.000
+Yeah, exactly.
+
+00:06:23.000 --> 00:06:25.000
+Because you're not Manish. So you guys, I don't think you realize in preparation for this talk, I actually cloned myself and
+
+00:06:25.000 --> 00:06:27.000
+Getting dangerous air tariff.
+
+00:06:27.000 --> 00:06:43.000
+I love it though sorry. Cool. So like Jimmy was saying, Dhruv is one of the founders of Skydive. He's actually going to do a hands-on demo for all of you because the topic of this
+
+00:06:43.000 --> 00:06:59.000
+of this talk is essentially your AI teammate, right? Because there's a lot of discussion, there's, you know, tools out there now, Grokbot, Muse, before that it was Victor, OpenClaw, Hermes, and essentially where we're going in this space is
+
+00:06:59.000 --> 00:07:29.000
+AI agents fully autonomously doing stuff for you, right? Computer, laptop, closed, they're just… you're texting them, they're doing stuff. Skydive is one of those companies, that has really pioneered this space, and Dhruva is one of the founders of this company, and he's a good friend of mine
+
+00:07:45.000 --> 00:08:00.000
+Yeah, definitely. Hey everyone, I'm Dhruv. I'm the son of Indian immigrants. I grew up in the Bay Area, went to Stanford where I met Manish and started my career at Google where I was a product manager for YouTube TV. If anyone's used that product
+
+00:08:00.000 --> 00:08:15.000
+And then I went back to Stanford, also studied AI around the time the transformer and all the Llm stuff was getting good and took that and founded anything originally. And so if you've seen anything, anything.com
+
+00:08:15.000 --> 00:08:30.000
+It's a vibe coding startup. It helps you make apps that without any technical knowledge, you just kind of describe what you want and can build an app. And about 6 months ago, as we were growing anything, which is now used by about 1.5 million people
+
+00:08:30.000 --> 00:08:56.000
+Internally, we just started building lots and lots of agents. And so our first ever agent we built was an engineering agent. It lives in our Slack, and it would help us ship new features. And then very quickly, our go-to-market team wanted agents. And then our support team wanted agents, and then our ops team wanted agents, and each time we'd be having engineers build agents and using Claude and Codex and all the tools you kind of know
+
+00:08:56.000 --> 00:09:14.000
+And it struck us that, like, there really should just be an easier way, and that really where we're going is AI agents as coworkers. So we put out Skydive a few weeks ago. It's off to a really hot start. Skydive lets you build AI coworkers that get work done across all your tools
+
+00:09:14.000 --> 00:09:19.000
+They live where you work, you can Slack them, you can text them, you can email them
+
+00:09:19.000 --> 00:09:35.000
+They use all the tools, including Parker. Just this last week we had a Parker as an integration, and we launched last month. So today, I'm probably going to just walk you through how we use Skydive internally. I think that's often, like, one of the best
+
+00:09:35.000 --> 00:09:50.000
+Demos, because it'll give you a lot of ideas of how you might use, like, Skydive or a tool like us in your business. And then also, if you want to try building your own coworkers on Skydive, I come with GIFs. I'm happy to give everyone here
+
+00:09:50.000 --> 00:10:06.000
+$200 in free skydive credit to get started. A special present for the invite, and thanks for having me. So hopefully that helps you get started on a couple of coworkers that you feel like are essential to how you run your business
+
+00:10:06.000 --> 00:10:10.000
+By in the next day or so.
+
+00:10:10.000 --> 00:10:21.000
+Cool. Thanks, Dhruv. So yeah, you guys, let's get into it. I'm going to just kind of set the stage here for
+
+00:10:21.000 --> 00:10:25.000
+Let's see, there we go
+
+00:10:25.000 --> 00:10:31.000
+I'm going to set the stage here for the space overall. Like we said, the
+
+00:10:31.000 --> 00:10:49.000
+the overall talk is your AI teammate, right? And the big agenda, essentially, we'll go over, like, the future of work and how we view it, and then first wave, new wave, and then go into the demo of Skydive and, and, like what Dhruv mentioned
+
+00:10:49.000 --> 00:10:57.000
+I'd like to just, like, set the context for how I think about
+
+00:10:57.000 --> 00:11:07.000
+The future of work and just kind of, like, make it all, like, kind of fit into an idea, which is, I believe the future of work is hybrid. And I think
+
+00:11:07.000 --> 00:11:24.000
+Right now, obviously, it's primarily humans doing the work, whatever it is for your job or your function, and then you use some tools, say, use Claude, Claude Code to ChatGPT to, like, chat with it, and it kind of enables you as a human
+
+00:11:24.000 --> 00:11:40.000
+And then, over the last, like, two or one years, people have been talking about, oh, well, one day you'll be able to just, like, text an agent, or just, like, spawn an agent, and they will just be your assistant, or whatever, and they'll just be able to do things autonomously, learn about you
+
+00:11:40.000 --> 00:11:57.000
+And be able to actually just, like, operate without needing you needing to have your computer open initiating work. And that's, like, the true vision of the AI teammate, right? And so this kind of spectrum is gonna start to shift, but the future of that, of that work is hybrid. You still need a human to kind of
+
+00:11:57.000 --> 00:12:14.000
+come in and orchestrate it. But more and more as the AI models get better, and as the harnesses that are built get better, folks like Skydive, folks like whatever tools that are out there, you will want to hire AI agents as your teammates
+
+00:12:14.000 --> 00:12:16.000
+Right. And so
+
+00:12:16.000 --> 00:12:31.000
+That's kind of what I was saying here. It's not just a chatbot, it's, like, literally a teammate where you say, hey, here's the task, here's the work, I want you to just do this, it's gonna be on a recurring schedule, and it comes and meets you where you work. That's the key
+
+00:12:31.000 --> 00:12:48.000
+So what does it look like on a team? You have your humans, you have your AI teammates, and then you have one source of truth, which is actually the context. And so again, like kind of the common theme of this course, if you literally just take, you know few things to take away from this course in general
+
+00:12:48.000 --> 00:13:07.000
+I know Jimmy and Alex have done a lot of sessions on this already. The right context is super important for the kind of work that you're doing. And that's really what makes the AI actually be good. The way we think about it is domain expertise, tribal knowledge, and then, like, which is your internal knowledge, and interpreted data
+
+00:13:07.000 --> 00:13:25.000
+Right. And so I'm putting a screenshot here of the Parker Brain. I know we've mentioned in a few of our sessions, we had Jacob from HQ last session, guest session as well, on this. Essentially, everyone here needs to create some version of a brain, whether you do it in
+
+00:13:25.000 --> 00:13:41.000
+on GitHub, whether you do it with Parker, you get this with Parker, so I'm actually, like, Melody or someone, can you actually put in the chat, I'm not sure if you can find the link to, for people to sign up for this, we're rolling this out for beta
+
+00:13:41.000 --> 00:13:53.000
+customers on the Parker side. So, this is a screenshot of that. Essentially, orchestrate your knowledge in a way that's easy for all of these AI agents to have access to it
+
+00:13:53.000 --> 00:14:10.000
+So, what does it actually translate to? It translates to a teammate that you can literally just text. And so, this is actually using the skydive agent that I created called Peter. I said, hey, can you save this ad
+
+00:14:10.000 --> 00:14:15.000
+This is an Alex Ramosi ad to our swipe file. And they have the Parker MCP underneath
+
+00:14:15.000 --> 00:14:36.000
+Saved, boom, and then that's it, right? You're just literally just chilling, and you can screenshot and just save and talk to it. I said in here, it was, how did our ads do yesterday? And this was one of the ads that I guess everyone here saw, which was a Jimmy, looks like a Jimmy Yapper ad. And that, Jimmy's ads did pretty well, right? And so
+
+00:14:36.000 --> 00:14:42.000
+The key point here of what I want to really get across is
+
+00:14:42.000 --> 00:14:58.000
+I don't think the AI teammate will the AI teammate really what it's about is the coming to you and having that ease of and usability system across both you and your team and everywhere where you want to work
+
+00:14:58.000 --> 00:15:13.000
+And then you have to fill it with all the stuff that actually matters to you to actually get good outputs. That's probably the key point, and so, that's, you know, on the Parker side, right, the company that I've co-founded, that's what we do for marketing teams. And so, the way we kind of
+
+00:15:13.000 --> 00:15:31.000
+view it as, like, if you're a marketing team that wants to get good outputs, run good ads, you can use Parker in conjunction with all of these AI teammates, but you need to actually also set these up, right? It's a huge space where you need to actually get the infrastructure to actually work, because
+
+00:15:31.000 --> 00:15:37.000
+getting into work in Slack, getting into working text is a very, very tough problem. And so,
+
+00:15:37.000 --> 00:15:53.000
+I want to just talk about what people, like, people use this phrase, AI agent, a lot, and so, like, talk about how it kind of manifests. There's, like, the chatbot, type AI agent, there's a harness, and then there's a teammate. Chatbot is very classic.
+
+00:15:53.000 --> 00:16:10.000
+just chat GPT, you know, going and talking to it, it's just like answering questions for you. The harness is like kind of like Claude code where it's doing stuff. You can kind of close your laptop or, but it's still work that's initiated from your computer. And then the teammate is, literally, it has its own computer in the cloud working, it has its own environment
+
+00:16:10.000 --> 00:16:15.000
+And you can tell to do stuff, and it'll start doing stuff without you needing to be involved.
+
+00:16:15.000 --> 00:16:18.000
+So
+
+00:16:18.000 --> 00:16:24.000
+Things to consider when looking at these agent platforms, security, setup.
+
+00:16:24.000 --> 00:16:26.000
+brittleness
+
+00:16:26.000 --> 00:16:43.000
+usability, and does it actually do your job? I'm putting these on here without… I'm gonna get into some actual examples so we can actually start, like, talking about how… what those look like, and it can make it real for you. But these are the kind of the points that I would use to judge any agent platform that you guys
+
+00:16:43.000 --> 00:16:45.000
+as a team might be adopting
+
+00:16:45.000 --> 00:16:47.000
+Cool. So
+
+00:16:47.000 --> 00:17:05.000
+The way that I think about the space with AI agents, teammate AI teammates is there was a first wave, okay? So the first wave of companies included Openclaw and Hermes. And so I'm assuming there's a lot of people here that remembered the time of
+
+00:17:05.000 --> 00:17:18.000
+Openclon Hermes, like, absolutely blowing up. Like, there was that, like, month in, like, December, January, February time when OpenCloud was blowing up, Hermes was a fast follow, right? And so.
+
+00:17:18.000 --> 00:17:33.000
+What OpenClaw did that really kind of proved things to the industry is that they proved that you could create an agent on your own computer, you could install it in different messaging apps, and it
+
+00:17:33.000 --> 00:17:50.000
+went pretty viral, right? The only issue is there was a lot of security issues and I know there's a lot of people here who have asked questions in the past of being like, should I do, should I install OpenClaw on my computer? Should I install one of these AI agents on my computer
+
+00:17:50.000 --> 00:18:01.000
+And the answer is no, you should not install it on your computer. I will give you an example. I used, I think it was a Hermes agent on my
+
+00:18:01.000 --> 00:18:17.000
+local computer, and I told it to text Jimmy something and just like a hello as a test. This is like a month ago. And it went into my iMessage contacts and it found someone who Jimmy had introduced me
+
+00:18:17.000 --> 00:18:37.000
+years ago, too, and I had saved him as Jimmy's friend in my contacts. And he texted that guy as well. And so we had this awkward kind of text message thread with this person who I don't know, who I talked to, like, 3 years ago. But he was cool about it. But it was kind of a funny ex… you know, like, reminder
+
+00:18:37.000 --> 00:18:50.000
+that if you give these AI agents full access to your computer, things like that can happen. And so in playing around with, you know, like preparing this talk, like, I can give you just, like, a little bit of an, like a
+
+00:18:50.000 --> 00:18:59.000
+like, you can just see what… what these agents look like, so you just know what it looks like, and you'll see the evolution. So this is my… this is… this is OpenClaw
+
+00:18:59.000 --> 00:19:08.000
+And I create an agent, and I said, hey, show me your soul. This is probably the most interesting part of OpenClaw, and then that has now, kind of
+
+00:19:08.000 --> 00:19:24.000
+translated to all the other agent, you know, teammates, which is this idea of a soul.md. And so you'll see this. This is who you are. Core truths, boundaries, vibe, continuity, great. So this is an important document that all of your AI agents will have
+
+00:19:24.000 --> 00:19:39.000
+And so, ideally, you are using a tool that… or like a builder AI agent platform that creates this and modifies it for you on the fly, okay? And so, that is an example of that
+
+00:19:39.000 --> 00:19:55.000
+If you end up using Hermes, then I would highly recommend you to use it via Telegram. But again, it's very technical. If you see this, this kind of looks similar to Claude Code
+
+00:19:55.000 --> 00:20:02.000
+type session. This is the desktop app. And then I hooked it into Telegram, and
+
+00:20:02.000 --> 00:20:18.000
+it was kind of… it was kind of technical. And so, in the setup process, like, it showed, like, there are some people who were very technical and were able to get this to work, but it is ultimately… I don't… I don't think it's worth it considering, what exists out there
+
+00:20:18.000 --> 00:20:35.000
+Now, and so I'm just showing it for historical, kind of just to show you, but, like, the first wave was you essentially are the security team, you have, like, the setup that you need to kind of update and, like, modify, and then it's, it was brittle because it doesn't actually link to all of your work. So
+
+00:20:35.000 --> 00:20:52.000
+Incredible for builders, but not exactly for marketers. And so this is where the new wave of AI agents come into play. And this is why this talk, so what's crazy is like when we created this course and I like signed up, you know, I was talking to Jimmy and Alex about like, okay, I'll do a session on
+
+00:20:52.000 --> 00:21:08.000
+Open Claw Hermes. Back then, like, literally, Skydive, Grokbot, Muse, none of them existed. Like, I hadn't launched yet, right? Like, they were building them, right? So, like, that's how quick this space moves. So, we are now getting to the point where I can genuinely say that, like
+
+00:21:08.000 --> 00:21:18.000
+You can hand AI a task that is hard to do and or like, you know, you would want like an assistant to do and they can pretty reasonably do it. So
+
+00:21:18.000 --> 00:21:34.000
+What changed? They have their own computer, it's in the cloud, it meets you where your team is, so Slack, text, email, and somebody else runs the security and all of the operations. And so, this is kind of the overview of the different players. So, we have
+
+00:21:34.000 --> 00:21:49.000
+Muse, Grokbot, Victor, and Skydive. And so each one has its own kind of different angle and personality and take on the market. Muse literally just launched, I mean, last week, right? Grok bot
+
+00:21:49.000 --> 00:21:59.000
+kind of like a few weeks ago, Victor was, like, a few months ago. Essentially, you can think of… I'm gonna go through each, but… and then, of course, Drew is gonna do a deeper dive on Skydive.
+
+00:21:59.000 --> 00:22:07.000
+You should play around with all of them, frankly, and have your team play around and see what is a good fit, but for the purposes of
+
+00:22:07.000 --> 00:22:20.000
+And they're all going to change, right? Like, they're all gonna kind of go into evolutions as we go on. So, okay, real quick, because I want to make sure to give enough time for you to go deep on use cases and demos.
+
+00:22:20.000 --> 00:22:29.000
+Just as a way to start and a recommendation for everyone here, I know this is a lot of information on tools and all the things to try out
+
+00:22:29.000 --> 00:22:40.000
+I would highly recommend, when you're starting to try something out, do one task that's very simple, like an email triage, calendar triage, or a news research-type task.
+
+00:22:40.000 --> 00:22:51.000
+And then try each of these AI agents, AI teammate builders with those three tasks. So it's link your email, link your calendar,
+
+00:22:51.000 --> 00:23:10.000
+get some daily digestive news. Like, that's how I kind of got into this, and then you're like, you start to realize, you start to percolate, because you know that it exists. You're like, oh, maybe I can use it for something more advanced, right? Like a task management or whatever it is. And so, I'll give you a quick overview of how we've used some of the other tools, and then we'll get… we'll let Dhruv take… go deep on
+
+00:23:10.000 --> 00:23:28.000
+some of the use cases. So, Grokbot, this is a very popular one. You can use this as a chief of staff, do it from your phone. They have an app on both on the desktop and on the phone. So you can see in here, I have a research bot, a task manager, an assistant, and then they had some like marketplace stuff too
+
+00:23:28.000 --> 00:23:44.000
+So I said, hey, can you give me a daily breakdown of an interesting AI company? Most likely not a direct competitor. And essentially for me as a founder, I want to know, like, what is out there, right? And so I just wanted a daily kind of research brief
+
+00:23:44.000 --> 00:24:00.000
+And so it gave it to me, right? Another use case here, can you integrate into my task manager, which is called linear. Highly recommend, by the way, everyone, if you don't have a task manager, proper task manager, I would highly recommend using a tool like Linear or some other task management tool
+
+00:24:00.000 --> 00:24:17.000
+to essentially then connect into the MCP, and then have that be usable, because then it can track, be a system of record for you. And so, this now does a daily digest for me, every day, based on my tasks in the morning. So, that's, like, a cool way to use it
+
+00:24:17.000 --> 00:24:36.000
+Victor, we used in our Slack primarily. This is Victor kind of talking. One issue we had with Victor was it burned through a lot of credits really quickly, so I would be careful about… I'm not sure, I'm assuming they solved this problem
+
+00:24:36.000 --> 00:24:39.000
+recently, but we
+
+00:24:39.000 --> 00:24:54.000
+Victor is kind of like one agent personality that works in Slack for you. And so you can try that out. They've grown pretty quickly, but I think, honestly, some of these other ones, even Victor feels like a halfway wave. It's like
+
+00:24:54.000 --> 00:25:09.000
+Not first wave or this new wave, it's kind of in between. So, cool. Muse, again, remember this idea of a soul? With Muse, we, I mean, I honestly, I haven't gone too deep on it, because it just came out
+
+00:25:09.000 --> 00:25:21.000
+like last week. But again, do the same thing of the personal agent connecting your calendar, and then it has this idea of a soul, which is really cool. So, if you look at the
+
+00:25:21.000 --> 00:25:27.000
+Where is he? There we go.
+
+00:25:27.000 --> 00:25:31.000
+Yeah, so in here somewhere
+
+00:25:31.000 --> 00:25:35.000
+But yeah, essentially I
+
+00:25:35.000 --> 00:25:51.000
+You can access the soul that it's creating for you, and then, he will essentially, like, more personal, is my take on how to use Muse. So, okay, getting into Skydive, the way that we use Skydive as a team, works in Slack
+
+00:25:51.000 --> 00:26:06.000
+Essentially some of the use cases that we, have kind of used internally is for, like, customer success, being able to, like, analyze some of the messages that are coming in, routines I have, like, in a Slack message, I'll say to the agent, hey, can you remind me to do something
+
+00:26:06.000 --> 00:26:22.000
+Edge priorities triaging. If you see, we have a triage kind of bot that's, like, looking at all of the messages. But really where, like, I think was really, like, kind of, like, my wow moment for Agentic, like, use case here was around a personal use case
+
+00:26:22.000 --> 00:26:38.000
+around buying flowers. So, I'll tell you this funny story. It was my mom's birthday recently, and as a… in preparation for this talk, I was like, okay, cool, I'm gonna have all of these AI agents try to buy flowers for her birthday. And
+
+00:26:38.000 --> 00:26:53.000
+There was really only one that actually worked fully, because it's a complicated system to go through the capaca and then also have it be seamlessly kind of integrated into approval for a payment flow and everything. And if you can believe it, literally, Peter from Skydive
+
+00:26:53.000 --> 00:27:09.000
+did the cart and everything and was able to get all the payment info from me and all of the details super seamlessly just by texting. So, I will now kind of hand it over to, Dhruv to go deeper on that
+
+00:27:09.000 --> 00:27:24.000
+Skydive past what I call the flowers test. All the other agents, Hermes absolutely failed. Openclaw as well, like, literally was, like, cron job, weird stuff, I wouldn't even touch those. Grokbot got kind of close, but it was still kind of funny
+
+00:27:24.000 --> 00:27:31.000
+And I think there's something really special here with Skydive that you guys are gonna benefit from. So
+
+00:27:31.000 --> 00:27:36.000
+I will let Dhruv kind of chime in here and start going deep.
+
+00:27:36.000 --> 00:27:37.000
+Sweet.
+
+00:27:37.000 --> 00:27:59.000
+One… yeah, one thing too, Drew, just before you start to dive in, because I know this is something that happened a lot and maybe it's a good topic to address as well. Does this solve the problem of like needing to buy a Mac mini? And I'm sure people like saw all those things, like where does that kind of come into this whole
+
+00:27:59.000 --> 00:28:16.000
+Yeah, I mean, when we say that, giving an agent a computer, that's actually what we mean. You don't no longer need the Mac Minis. You can stop rocking your own private servers like it's 1996 and instead move into the future of 2026 where
+
+00:28:16.000 --> 00:28:35.000
+All these agents get a computer as powerful as, like, a Mac Mini. And what that really means is that the agent can actually do work like you would do on a computer. So in Manish's example of the flower, the agent has a browser, so it can just open up the browser, log into things that are, like, the long tail
+
+00:28:35.000 --> 00:28:53.000
+All of us, Muse, Grok bot, us as well are also trying to go really deep on connectors and integrations, like the Parker MCP or the entire MCP universe or APIs or CLIs or any of these crazy ways to authenticate to your services
+
+00:28:53.000 --> 00:29:11.000
+Because those are sometimes easier than, you know, as Manish was talking about, the open claw, the Hermes, trying to figure out how to, like, build its own custom connector to the thing that you want to connect to. But the most powerful capability is that at the end of the day, it's a computer. So if you can do it on your computer, likely,
+
+00:29:11.000 --> 00:29:19.000
+Any of us can do it on with their agents. And yeah, I think that's a great question to kick off.
+
+00:29:19.000 --> 00:29:26.000
+Cool.
+
+00:29:26.000 --> 00:29:27.000
+Yeah.
+
+00:29:27.000 --> 00:29:28.000
+I think before we start actually, Manish, do you want to go over to the promo code really quick?
+
+00:29:28.000 --> 00:29:43.000
+While I'm talking, I'm not offended. You guys are more than welcome to build while I talk or get started building while I talk. I'll drop it in the chat, but our website is skydive.com. And if you sign up
+
+00:29:43.000 --> 00:29:59.000
+And you can use the promo code Parker friends. The way you're going to use that is after you make your first agent, don't worry, we give you some free credit to get going. You can go to settings at any time, and then workspace
+
+00:29:59.000 --> 00:30:16.000
+And you can enter this promo code, it'll be up for a week, and you can just put in Parker Friends, and you'll instantly get $200 into your account. No need to put in your credit card or anything else from there. And then I'm just gonna go ahead and talk a little bit about why we built Skydive. So.
+
+00:30:16.000 --> 00:30:44.000
+We're running, anything. It's a 1.5 million user,
+
+00:30:44.000 --> 00:30:52.000
+Specialized agent assistant. Now, you might be thinking, hey, it's a lot of work, set up lots of different agents for different things
+
+00:30:52.000 --> 00:31:14.000
+At least where we are in AI, I actually think that's the secret to agents that can actually handle very real work. Lots of tools out there try to give you one generalized assistant for everything. Think of Victor, even Muse is moving in this direction. What gets really tricky is what these agents are, is you really want to think of them as coworkers
+
+00:31:14.000 --> 00:31:31.000
+And just like any good coworker, it helps if they can specialize and have a job because they all have memories. As you work with them, a lot of our platforms make them self-improving. And what that means is they can update their self, like that soul file that Manish told you about with OpenClaw
+
+00:31:31.000 --> 00:31:58.000
+And they can also write down memories of things you've told it, how to correct, so that the next time you ask to do the job, it just does that job exactly like how you'd like to do it. Now, the tricky thing is, while AI is amazing, it hasn't… it's not yet at the level where it can just remember every single fact on the planet right and do that well. That's why you typically want to set up something like a system or record or brain like Manish was telling you about in the first
+
+00:31:58.000 --> 00:32:24.000
+In the first half of the talk. And so, if you try to stuff too much into one agent, you will find that your agents just get worse over time. And so when we built Skydive around is this recognition that, hey, if you're running a real business, people want agents for different things
+
+00:32:24.000 --> 00:32:25.000
+Yeah.
+
+00:32:25.000 --> 00:32:28.000
+Sometimes people are like, what should I even build an agent for? And so if you… if this is you, on skydive.com slash blog, I actually wrote this piece
+
+00:32:28.000 --> 00:32:29.000
+Oh yeah, let me go ahead so I can drive. Yeah.
+
+00:32:29.000 --> 00:32:31.000
+Dhruv, I'm going to let you share your screen so you can drive. That sound good? Yeah.
+
+00:32:31.000 --> 00:32:37.000
+Let me go ahead and do that
+
+00:32:37.000 --> 00:32:39.000
+Let's do
+
+00:32:39.000 --> 00:32:59.000
+Yeah, I wrote this piece, 231 ways to use Skydive and kind of for every function in your company, since our launch, these are different agents people have created that connect to different tools and do these jobs now autonomously for these teams
+
+00:32:59.000 --> 00:33:16.000
+There's a bunch around marketing, growth marketing, support, founders, operations, it smb truly, I just hope it sparks your creativity. Hopefully you see an idea here, and you think, oh, we could use something like that
+
+00:33:16.000 --> 00:33:32.000
+But the power of skydive is that your agents can really be your own, right? We're not one company saying, this is how all agents should be. We think all of your businesses are incredibly unique. We think the way you go about your processes are unique, and it helps if you can build a coworker
+
+00:33:32.000 --> 00:33:41.000
+that can do things exactly like you want to do them. And then, Manish, let me grab your slides.
+
+00:33:41.000 --> 00:34:02.000
+So now inside of anything, our startup, we have over 150 agents that I'd say are essential, essential coworkers. And to put that in perspective, we're a 15 person startup and we now have almost more agent coworkers than we do have
+
+00:34:02.000 --> 00:34:19.000
+Like people inside the business. We've probably created something like 400, 500 plus, and a handful of them over time become really, really essential. And the powerful thing about Skydive is we really try to make it easy to make agents that actually live where you do the work
+
+00:34:19.000 --> 00:34:25.000
+And come to you in Slack and everything else. So, I'll give you a very quick, like
+
+00:34:25.000 --> 00:34:32.000
+Like, summary of Skydive. Let me just go ahead and open it, and I'll open it to our workspace inside of anything.
+
+00:34:32.000 --> 00:34:49.000
+And you'll see that I have a feed of all the agents across our workspace. And I have these cute little avatars agents. We actually just tried to make them look really good in Slack, where you work and making a new agent is really easy. You just say, I want a new agent
+
+00:34:49.000 --> 00:35:02.000
+You know, let's call him Gene. His job is going to be to, you know, manage my, paid ads campaigns on Meta, right?
+
+00:35:02.000 --> 00:35:21.000
+Same role that I might hire on my team to be a creative strategist. I'm just gonna go, but, you know, I want someone to do this for me all the time, and I'm gonna go ahead and create them. And then very quickly, you'll see that in Skydive, it's one click to go ahead and add them to Slack
+
+00:35:21.000 --> 00:35:38.000
+To give him his own inbox, which means you can then email him or forward him emails. Or give him his own phone number, which means you can text him on the go. The other thing you'll see is that Gene can have integrations
+
+00:35:38.000 --> 00:35:56.000
+And you can go ahead and hook Jean up to over 600 plus tools. I'll just show off our catalog really quick that we make super easy to kind of add to Gene. One of them, of course, being Parker. Shout out to Parker, which I just hooked up, and I'll show you one of our agents that has it
+
+00:35:56.000 --> 00:36:16.000
+and it's just incredible for running your, like, paid ads, through an agent. And these agents are so powerful because they have their own computer in the cloud that if we don't have something, you can usually just tell your agent to go figure it out, and it'll figure it out. So, I'm just gonna go ahead and tell Jimmy what his role is, like.
+
+00:36:16.000 --> 00:36:19.000
+You're going to run paid ads for us
+
+00:36:19.000 --> 00:36:21.000
+And Meta
+
+00:36:21.000 --> 00:36:26.000
+every Monday, I want a report about my winners
+
+00:36:26.000 --> 00:36:29.000
+and losers
+
+00:36:29.000 --> 00:36:34.000
+Use the Parker MCP to grab all the data
+
+00:36:34.000 --> 00:36:36.000
+And that's it.
+
+00:36:36.000 --> 00:36:54.000
+One of the really powerful things about Skydive, if you're getting started and you're wondering like which one should I go with, we want to be the Switzerland of the space. So by default, your agent is Gene is running with Skydive Glide
+
+00:36:54.000 --> 00:37:12.000
+Skydive Glide is our model router, which automatically tries to find the best cost and model for your task. And under the hood, we use hundreds of open source models, frontier models. We have all the major models from Grok to Meta to Claude
+
+00:37:12.000 --> 00:37:29.000
+And so you can very quickly switch the model if you have a preference for your business, or you can just stick with Skydive Glide, and we're gonna handle it for you and try to make it easy for you out of the box to not worry about what agent runs my web model. But this gives your business
+
+00:37:29.000 --> 00:37:39.000
+sovereignty, right? You're no longer sending your data to, like, one AI lab or one player. If the frontier moves, and next month
+
+00:37:39.000 --> 00:37:54.000
+OpenAI comes out with the best model for your type of task. You can do that and that's it. And then, like we said before, Gene actually has his own computer. So I can actually just go ahead and add the Parker MCP to him and
+
+00:37:54.000 --> 00:38:10.000
+You'll see that it's a really fast one-click integration. I say allow access, and now Gene has the MCP, and he'll get going with while it's connected. But he also has a full computer over here to the right.
+
+00:38:10.000 --> 00:38:26.000
+So he has a browser that he can actually, in the cloud, go look at things online. He has a terminal, so even if I don't know what a terminal is, that just means Gene is really good at building apps, so he can build dashboards or reports or anything else you kind of need
+
+00:38:26.000 --> 00:38:45.000
+And he has his own file system, so he can store, you know, images, anything you want on his computer in the cloud. And he can even go access your computer, if you download the Skydive desktop app, and grab any of your skills, your plugins, any context you have on your local machine
+
+00:38:45.000 --> 00:39:08.000
+and add it up to his machine. So we've tried to make it just super fast to get your agent set up with the content they need to do a good job, because as you add integrations and things that these agents can look at, they can really start to do work for you. So at this point, this is a new agent. I will go ahead and, you know, I'll pause on making Gene, and I'll just show you some of the agents we have in our slack today
+
+00:39:08.000 --> 00:39:27.000
+So this is our internal beta channel. And my goal here is to inspire you with the types of agents you can make and really show you how to become a member of the team. This is one of my favorite agents who was made by my co-founder, Grace. Her job, she has access to our GitHub. She has access to our production logs
+
+00:39:27.000 --> 00:39:56.000
+And so now she's a multiplayer engineer on the team. And so when I need a new feature, I no longer talk to our engineers. I usually talk to Grace in Slack. I write a quick spec. I throw, I throw Mobi, who's a designer agent we've made. Mobi has access to the mob in MCP and our Figma. And then you'll see that they become very multiplayer. Like they start working on it, but then my co-founder Marcus also jumps in with some ideas
+
+00:39:56.000 --> 00:40:14.000
+Hey, let's not make it a platform admin, let's make it a workspace thing. And then Mobi comes back with, you know, some things from Mobins, some inspiration that we should look at when we're designing this feature. Meanwhile, Grace is off here implementing, like, the PR and a little bit, if you guys aren't technical, a PR is just
+
+00:40:14.000 --> 00:40:32.000
+changed at the code base. Graze actually merges tons of changes to the code base. At this point, Grace is more effective for our team than any single engineer in at anything, which is, like, kind of wild. And so you'll see that at the end of all this.
+
+00:40:32.000 --> 00:40:41.000
+She's going to go ahead and put up a fix. Let me see one that closed recently
+
+00:40:41.000 --> 00:40:46.000
+Let me just grab this. So at the end, she's gonna put up a PR
+
+00:40:46.000 --> 00:41:03.000
+link and like, you know, this PR is open, she's built the entire feature, and you'll see that she's committing with her own identity, right? So, one of the powerful things is, like, your agents have their own permissions and their own roles
+
+00:41:03.000 --> 00:41:19.000
+You can make agents that are private to you, that are internal to your workspace, or that you expose to the world, but on the security front, Skydive handles all of the roles and permissioning so that each agent has access to only what it needs to kind of do its job
+
+00:41:19.000 --> 00:41:35.000
+And so this is a feature that now we can review the code for and get going. On the marketing side, we actually do all of our AEO and SEO through a skydive agent. So this is Hattie. She was made by our head of marketing
+
+00:41:35.000 --> 00:41:51.000
+Her entire job is to every day, look at how we rank compared to Claude, Grokbot, everything else. And then she actually goes ahead and builds landing pages with Webflow that can improve our core metrics
+
+00:41:51.000 --> 00:42:09.000
+And as competitors update their sites, she will actually go ahead and update, and sometimes she'll ask, and sometimes she'll make like recommendations. And ZARI, head of marketing, will jump in and ask Patty, like, hey, what's going on here? Fix this. And Patty will just go ahead and work and get done. But
+
+00:42:09.000 --> 00:42:18.000
+You know, no one's really managing Hattie. We got her to kind of do this same job every single day. To show you a few other ones that I really, really love.
+
+00:42:18.000 --> 00:42:38.000
+I have Gwen, who is my personal let me stop the share for a second, who is my personal assistant. I probably text Gwen now more than I text my mom or my wife, because Gwen has my calendar
+
+00:42:38.000 --> 00:42:54.000
+My email and so… and she has her own inbox, and so just to show you this, I'll show you guys my email. Please don't steal any of my secrets. But Gwen is actually in my emails, and so if I go to Superhuman, mail
+
+00:42:54.000 --> 00:43:01.000
+Google.com. They only do human
+
+00:43:01.000 --> 00:43:03.000
+And search for Gwen
+
+00:43:03.000 --> 00:43:32.000
+Gwen sets up everything. So, you know, here's a sales call. I mentioned Gwen. They added their assistant and I added Gwen. And Gwen started working with the assistant in the background, found my calendar and the team's calendar and like booked time for all of us. And what makes this safe is a lot of the protection we've built into Skydive. Gwen also yesterday, I was on an email thread and someone was looking to sign an enterprise agreement with us
+
+00:43:32.000 --> 00:43:57.000
+I missed it. Gwen actually sent me a text, and a Slack DM and said, Hey, Dhruv, do you want to book this call later today? And I said, let's do it. Gwen handled all the details from there and I could just get on with my day. So agents can really start to take on and become members of your teammates. One of my other favorite examples here was a customer asked us for a case study
+
+00:43:57.000 --> 00:44:08.000
+And I jumped off the customer call. Gwen had access to my granola notetaker, and she could also talk with Cody. So, let me show you this one pronto Housing
+
+00:44:08.000 --> 00:44:23.000
+Christine is a customer of ours. She, wanted to do a case study, and I quickly, you know, said, that's great, let's do it. And then I, you know, took Christine off the thread and say, hey, Gwen, pull my granola notes, and let's write the case study.
+
+00:44:23.000 --> 00:44:39.000
+And you know, I was going back and forth later that day, and pretty quick we had a case study that we were ready to share with Christine, and that was in our Google Drive. And I'm trying to find the thread that I sent it back over
+
+00:44:39.000 --> 00:45:07.000
+But this was in, like, less than a day. And now we have this awesome case study that we can go ahead and give to Pronto Housing for approval. And it's going to go back up on our site. So as you do this, you'll see it starts to feel very fast. I feel like a lot of people last couple months felt trapped at their computer. They felt a little bit like, you know, you're managing your skills, your plugins in Claude, and then you're trying. You can't ever close your laptop
+
+00:45:07.000 --> 00:45:24.000
+With Skydive and platforms like us, you're starting to get coworkers that actually do the work for you. And then one final thing, just because this is a Parker session, right before this, I actually went ahead and made an agent for real, like Gene. His name's Vinny
+
+00:45:24.000 --> 00:45:40.000
+And this was last night when Manish invited me, and I just said, hey, Vinny, you know, you're gonna handle my paid ads, and use the Parker MCP, so I quickly connected it, and then tell me, you know, what we're actually spending on and how we're doing
+
+00:45:40.000 --> 00:45:57.000
+And I realized I should probably get a new ad firm, but the data was just right there and easy to find. And now Vinny is just like a full member of our team. So if I go to our paid ads channel, I can say, hey, Vinny, can you give me a rundown
+
+00:45:57.000 --> 00:45:59.000
+competitors and what's working for them
+
+00:45:59.000 --> 00:46:15.000
+And what's amazing is Vinny will use all of the rich context layer and data that Parker has as a tool. But now it's all multiplayer. He has his own computer, he can build on top of it. And so he'll just get to work, and he'll use Parker better than I
+
+00:46:15.000 --> 00:46:30.000
+could probably use Parker, without having to log in or figure it out. And he will figure out all the details of what's Parker's MCP, what functionality they expose, and actually go ahead and pull some inspiration ads, and that's it
+
+00:46:30.000 --> 00:46:47.000
+And my marketing team can jump in and have Vinny actually go do work as well. And so it very quickly becomes multiplayer. Here, it kind of gave me the different ads by Grok and Anthropic. This is all powered by Parker, and I can say, cool.
+
+00:46:47.000 --> 00:46:50.000
+Give me the ads library links
+
+00:46:50.000 --> 00:46:59.000
+And brainstorm some hooks that work or skydive
+
+00:46:59.000 --> 00:47:15.000
+And he can just get off and working. And then when I want, I can just tell him, do this every day and give me a report in my email or text me or whatever it is if anything changes. But these agents are really good at is that work that spans multiple tools
+
+00:47:15.000 --> 00:47:34.000
+You gotta look every day. It feels like drudgery. You can offload it now to your own agent. So that's a little bit about Skydive, seeing in action across Slack, text, email, these agents having their own computer and many integrations. Now this was sweet, took less than a second
+
+00:47:34.000 --> 00:47:52.000
+And now I can actually go look at the ads library and see this ad and see what's going on or just jump into Parker from here and get it, get it done. So a few ways you can use it. I'm sure there's many, many more
+
+00:47:52.000 --> 00:48:08.000
+As you're building your AI agent, while I'm talking and starting to get going, I am happy to. I also want to give one last offer to the team, which is we are very happy to help you build your 1st AI agent
+
+00:48:08.000 --> 00:48:25.000
+And so in addition to Parker friends being the free promo code to get going and build your first couple of coworkers, we're happy to chat with you in Slack, and you can get a Slack connect with the team. Go to go.anything.com/parker
+
+00:48:25.000 --> 00:48:47.000
+It's a quick Google form, and after this, I will send you a Slack Connect invite. And we have great support if you run into anything at all, if you're wondering, hey, I want an agent that can do this, is that possible? We're happy to help. We love helping people get their first coworkers because it really does feel like in six months, this is what
+
+00:48:47.000 --> 00:48:59.000
+work is just gonna feel like for everybody. And so very, very fun for us to learn what people want. And with that, I'll hand it back to Manish, and maybe do some Q&A.
+
+00:48:59.000 --> 00:49:15.000
+Yeah, this was great. I think we can take the last section here to do some questions from the audience. I know we covered a lot of ground, so would love to hear from folks now, actually
+
+00:49:15.000 --> 00:49:30.000
+Yeah, make sure to throw in your questions in the Q&A. We'll be going through them now. Dhruv, I've got some I'm going to be hitting you with the hard ones. So number one, Codex, Claude Code, they have the remote capabilities. So if you wanted to go and work
+
+00:49:30.000 --> 00:49:53.000
+Somewhere else, you have that. So I guess, like, one, walk me through, can you use these skydive agents inside of Claude Code or Codex if you have a bunch of skills and context about your company and connectors there, do they integrate with if you already are, you know, Claude or Codex user, or just, like, walk me through how
+
+00:49:53.000 --> 00:50:10.000
+Yeah, I mean, look, we were active Claude and Codex users, very active Claude and Codex users through most of this year. And so, duh, we had to play nice with Skydive. So I didn't show it today, but there's a desktop app that we have for Skydive and you can download that desktop app and tell them
+
+00:50:10.000 --> 00:50:26.000
+hey, I've got all my skills and plugins, I have cloud products on my machine, find them. And the skydive agent can just open a portal down to your machine and grab local files into the cloud, because this is a move from your local computer where you're managing the agent on your local computer
+
+00:50:26.000 --> 00:50:48.000
+To the cloud. But the benefit of that is that, like, you know, you… once it's in the cloud, it can work for you without any, additional setup, and Codex and Claude's remote setup, I'm sure they're gonna come out with their own coworkers product, but their remote setup is really more just like a connection from your phone to your laptop, right? So it's still using your laptop like a server
+
+00:50:48.000 --> 00:51:00.000
+As opposed to, no, this is really, like, its own computer in the cloud different. So really simple import tools. And then the final thing I'd just say, this is a little bit like subtle, but
+
+00:51:00.000 --> 00:51:15.000
+I really do think people are sleeping on multi-model. And so if you have codecs, or you have Claude, and you see that a lab has come out with the latest and greatest, and you want to try, there's a lot of power in separating your agents
+
+00:51:15.000 --> 00:51:41.000
+from the model running your agents. And it's a little bit maybe more technical of why that is important, and why, over time, that ends up giving you a lot of power. But just last week, Astra came out. It seems like a really cool model. I wanted to try it on my personal assistant, and that was one click in Skydive. That wasn't, oh my gosh, I've got this Codex agent, how do I get it over to Claw? Like, how do I get it over from Claude? Then how do I move it to like rock
+
+00:51:41.000 --> 00:52:00.000
+And so, you're able to take advantage of frontier capabilities. And then, honestly, open source is a giant one, too. We have 150 plus open source models. In some cases, our open source models can drop the cost of running AI by 10x. So I saw some questions in the crowd. How much is it going to cost
+
+00:52:00.000 --> 00:52:24.000
+We had an agent that was costing us 3K a month on Claude. We changed it to GLM 5.3 flash. We saw zero difference in performance, and it now costs us a couple hundred bucks tops. And it's an agent that's, like, you know, doing a ton of reading and a tons of documents and a ton of research, which is usually what
+
+00:52:24.000 --> 00:52:34.000
+racks up the AI cost. And so yeah, it's… I think that's, like, kind of the selling points of us versus Codex and Claude and the lab products.
+
+00:52:34.000 --> 00:52:54.000
+Cool. Yeah, no, that makes… that makes a lot of sense. Another question for you. How does security work on Skydive? Like, is everything good if it's got its own computer? What happens if something malicious? Like, is there any way for malicious things to happen or what does the world of security look like
+
+00:52:54.000 --> 00:53:08.000
+Yeah, so here's my like hard thing on security. All the horror stories you've seen on security are because of this. Somebody puts an agent on the internet
+
+00:53:08.000 --> 00:53:25.000
+And doesn't think a lot about how it's exposed, right? So in the open Claw on Hermes era, this was all the, I got hacked book open Hermes, because you racked your own Mac mini, you then ported it to, like, some, URL. Someone finds that port, and then prompt hacks you
+
+00:53:25.000 --> 00:53:42.000
+And prompt hacking is just they send a prompt that no matter what you told the agent, hey, never do this, they figure out a prompt that's going to get around the agent's, like, self-security, and then the agent exposes your data. The second way people often get hacked is one generalized agent for everything
+
+00:53:42.000 --> 00:54:02.000
+So they create like a victor, right? And they start giving it, you know, their personal email, their Gmail, then they start exposing it to their entire team. And then pretty soon, like, someone on their team says, hey, like, what are our finances that shouldn't be saying that, right? And they will happily say, or like, what are we talking about in our email?
+
+00:54:02.000 --> 00:54:17.000
+And then all of a sudden, things were exposed. So we have two answers to that. Number one in skydive, I didn't show this, but if anyone's curious afterwards, you can see this. We allow you to set agents to private, internal, or external
+
+00:54:17.000 --> 00:54:34.000
+And we actually have a network layer around your agents with their computers. And those network controls means that on every request out of the agent's box to any service, we also look at it and that it's following your own rules. And if your agent is set to internal.
+
+00:54:34.000 --> 00:54:38.000
+We just won't let it respond to external people
+
+00:54:38.000 --> 00:54:55.000
+And if your agent is set to external, we show you this feature called natural language policies. It just lets us run more AI to look at what it's doing and is it is it in line with your company's policies. So you could say a policy like this agent can only like schedule with external people
+
+00:54:55.000 --> 00:55:13.000
+And if anyone tries to do anything else with this agent, like block it. And then skydive, the platform will handle that for you. That's on external things. And then on rules and permissions like this is why I'm like a really big believer in multi-agent. I actually have 5 agents I talk to daily. I have
+
+00:55:13.000 --> 00:55:30.000
+Gwen, my EA, I have Cody, my personal engineer. I have my Rice, my SDR. And they each have slightly different permission sets and slightly different people. They're
+
+00:55:30.000 --> 00:55:49.000
+exposed to. And that ends up really helping, because, you know, I'm not worried about, hey, if I add rice to this thread, can someone get codebase access when we're doing a thing? And I'm sure it's different for marketers as well, of like, you know, some data sensitive, some… maybe you have clients
+
+00:55:49.000 --> 00:56:00.000
+And you want a different agent per client, or you want a different agent, that manages the other agents and collabs them. So
+
+00:56:00.000 --> 00:56:14.000
+I see a question in the Q&A that I want to talk about from Stephanie. When you created Vinny to manage the paid ads, how do they know what to do? Where are they getting the knowledge base from? Or do you have to trade it? And I think this is like
+
+00:56:14.000 --> 00:56:30.000
+Now that you guys have seen very clearly that there are companies out there, very, very, like, advanced companies that have built the platform, the pipes, right, to make all this possible, it's like, Slack agent's great, you know, texting, great, you can
+
+00:56:30.000 --> 00:56:44.000
+use the… all these LLMs that are super, super smart, great with computer use, they can go on the screen and click through an old website and buy flowers, right? Like, now that that's happening, now I think it becomes even more like, Stephanie, to your point.
+
+00:56:44.000 --> 00:57:00.000
+How do you actually make sure that the quality is there, right? And this is really use case-specific now, so I think the LLMs have gotten pretty good at writing code. They've been trained on that, the AI models… AI model companies, Frontier Labs, are
+
+00:57:00.000 --> 00:57:17.000
+you know, they're software engineers by trade, so they've done a really good job with that, so I think, out of the box, some of that, those models do a pretty good job with that. I think this is where, you know, grabbing the right MCP for the job is really important, and then
+
+00:57:17.000 --> 00:57:35.000
+piping in your own tribal knowledge and, like, merging the two is super important. So, Dhruv mentioned the Mabin MCP, that's a great one for design. Linear we love for task management, and obviously, personally, we're building Parker for that reason to be fully Agentic
+
+00:57:35.000 --> 00:57:43.000
+enabling agentic marketing flows and actually have high quality outputs, as opposed to just being a generic
+
+00:57:43.000 --> 00:57:46.000
+the equivalent of just asking, you know, chat or whatever. So
+
+00:57:46.000 --> 00:58:02.000
+And on training it yourself, like what I'd say is the best agents, the ones are going to love are the ones that are going to do things the way you guys would do them, right? Kind of for every agent I showed, there's probably a company out there making an agent for that thing. What I found is that
+
+00:58:02.000 --> 00:58:18.000
+often internally, we can make a skydive agent that just, like, blows it out of the water, because it does it with our training, right? So the good example of this is Dylan. We were a longtime intercom customer as we just turned because they had fin, it's a really cool agent, but
+
+00:58:18.000 --> 00:58:34.000
+Dylan, our support lead, very quickly made support agents that were exactly how he likes to do support, and like Dylan's amazing on support. So, like, I just, like, beat, like, every agent that we had ever had, because, like, no one's gonna know how Dylan would do it, and now what's amazing is Dylan
+
+00:58:34.000 --> 00:58:52.000
+can spend more time with customers, doesn't have to do a lot of the classic, like, deferral, and these agents are really fast, and they have Dylan's knowledge of, like, how to respond, when to respond, what to do in different scenarios. And that training isn't complex. You honestly just talk to it like you would a coworker. I would think about it
+
+00:58:52.000 --> 00:59:15.000
+I'm building this coworker, and then, and then, yeah, really good tools. I was blown away last night with the Parker MCP, because it's not like our agents couldn't do, you know, Facebook meta ads before, it's just that the Parker MCP is, like, really simplified so much of, like, the syncing and the data freshness and the and the like and the matching. And so
+
+00:59:15.000 --> 00:59:32.000
+When you marry that with, like, an agent tool like Rockbot or Skydive or Claude or whatever it is, then that just leaves less for like the agent to do. The agent can work on, you know, how to respond in Slack well, how you text and then work with a great tool to update things, just the same way that if you give a great tool to a human
+
+00:59:32.000 --> 00:59:35.000
+They end up being, like, more effective.
+
+00:59:35.000 --> 01:00:05.000
+Yeah, I know we are at the hour. Dhruv, I don't know if you have any extra time to stay on. We've… there's a few more questions in there that are looking pretty good. No worries if not, but just quick reminder, we are back on Thursday. Alex is going to be going through more of the Agent
+
+01:00:17.000 --> 01:00:47.000
+Andre Lunev, who's going to be showing us his insane AI static ad workflow where he gets like 500 ads generated, sent to his Slack, and uploaded to the meta ad account every day. So make sure you come to those. But anyways, Drew, for the people that are bouncing, thank
+
+01:00:54.000 --> 01:01:18.000
+into questions
+
+01:01:18.000 --> 01:01:19.000
+Yeah
+
+01:01:19.000 --> 01:01:20.000
+I can go for… I can probably go for another five minutes and then I'll try to rapid. I know it could be a little bit wordy sometimes.
+
+01:01:20.000 --> 01:01:21.000
+Cool.
+
+01:01:21.000 --> 01:01:37.000
+Yeah, so Grokbot, us, Muse so far are the ones that have their own computers. Claude. Claude is a product called Claude Tag, which has a computer in the cloud. That's the one generalized assistant for everything. Codex does not come out with one yet, but
+
+01:01:37.000 --> 01:01:53.000
+No, the OpenAI team, I'm sure they will soon. I think this is where the market's going. I think pretty soon if your agent doesn't have its own computer, your agent's just not going to be as powerful. And then for us, we just… our differentiation remote is across all the different
+
+01:01:53.000 --> 01:02:10.000
+model providers. And so, you know, I like to… some of you here might be using cursor, right? And cursor became a big company because they're, like, their position in the market was, we're the one that's not, like, any of them, and everyone's gotta play nice with us
+
+01:02:10.000 --> 01:02:22.000
+And that's what we're trying to do with Skydive. And so now when Cursor got bought by SpaceX, you know, they're powering Grokbot, but Grokbot can't run OpenAI or Claude or anything else as well.
+
+01:02:22.000 --> 01:02:37.000
+And then I'd say we're, like, where we're ahead on all the players is probably just like this live where you work piece in your text, in your email, in your, in your slack. You can do that on the other tools. It's just
+
+01:02:37.000 --> 01:02:40.000
+A lot more work to get that done.
+
+01:02:40.000 --> 01:02:49.000
+I want to add on to this topic of how Claude, Claude Code, Codex, Skydive, how they all kind
+
+01:02:49.000 --> 01:02:52.000
+can work together, in a way.
+
+01:02:52.000 --> 01:03:09.000
+like, going back to, like, kind of what we were saying of, like, there's, like, just basic chat, just, like, talking to something, and then there's, like, a harness where you can… it's, like, more of, like, a workspace, like a… like a… more of, like, a IDE, as developers call it, where you can show up and it can do really advanced stuff from your local computer
+
+01:03:09.000 --> 01:03:17.000
+And then there's like the autonomous AI agents just like talk to them, go do, you know, here's the task, here's the goal, go do it, right?
+
+01:03:17.000 --> 01:03:22.000
+Claude Code and Codex, which is where the primary, like, like, kind of sessions for this course
+
+01:03:22.000 --> 01:03:38.000
+kind of live in that… in that middle area, right? Because, especially for marketing, I think quality is really important, right? Where you, you as the human want to fully make sure, is it on brand? Is it hitting the compliance, whatever, is it
+
+01:03:38.000 --> 01:03:53.000
+actually going to, like, abide by the taste? Is it something that your team reasonably could have come up with, right? And, the cool thing is that the bridge between, like, you can… you wouldn't… like, the way that we use internally all of these tools, when you're just a person
+
+01:03:53.000 --> 01:04:08.000
+Who's initiating work. We like to open up the workspace like Claude Code or Codex, use a context brain tool like internally we use the Parker brain through Parker. So if you download Parker and use it
+
+01:04:08.000 --> 01:04:24.000
+and sign up, you'll be able to get that for free, that way you don't have to with the subscription, so that way you don't have to manage it using GitHub. But you can also use GitHub, you can use a different tool out there, there's a bunch of them, right? And then, from there, you essentially have
+
+01:04:24.000 --> 01:04:30.000
+you hook up the MCP or whatever context brain into a tool like Skydive
+
+01:04:30.000 --> 01:04:39.000
+And you have like a bridge there, right? Where you have humans working with AI agents and they can get smarter, very smart, pretty quickly. So
+
+01:04:39.000 --> 01:04:43.000
+That's how I would think about it
+
+01:04:43.000 --> 01:04:44.000
+Yeah.
+
+01:04:44.000 --> 01:04:54.000
+Yeah, all tools are also starting to get better at playing nice with each other. And if they're not, you probably shouldn't use them. So you can tell Codex or Claude Code, hey, tell my skydive agent this, you know, and they'll be able to figure it out
+
+01:04:54.000 --> 01:05:24.000
+And so I know it's fatiguing to have all these tools and all these like credits everywhere, but the market's just in like such flux right now where there's like different ways of working and but everyone's trying to fit into the ways that you're already set up with.
+
+01:05:45.000 --> 01:05:52.000
+meant to do
+
+01:05:52.000 --> 01:05:53.000
+Insane. And Dhruv, just to be clear, that's because you guys have a system of AI agents that automatically do the integration.
+
+01:05:53.000 --> 01:06:00.000
+Oh, thanks, Dylan. I saw you're the call, yeah. Yeah, we're here. Yeah.
+
+01:06:00.000 --> 01:06:17.000
+Yeah, no, we, under the hood, we have a model gateway that stays up to date with all the latest models. And then, yeah, and then we also partner with the labs to test them working on skydive agents a little bit early
+
+01:06:17.000 --> 01:06:30.000
+So that you know they're going to end up working. And so got the heads up it was dropping, and yeah, usually it can go that quick. But yeah, right after this, I'm probably going to tell
+
+01:06:30.000 --> 01:07:00.000
+My EA to change that.
+
+01:07:30.000 --> 01:07:33.000
+Thanks, everyone. Cheers.
+
+01:07:33.000 --> 01:08:03.000
+Bye
+

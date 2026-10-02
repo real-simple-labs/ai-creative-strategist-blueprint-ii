@@ -1,0 +1,1490 @@
+WEBVTT
+
+00:00:06.000 --> 00:00:23.000
+Everyone, good to see you, good to see you. Happy Tuesday. First official guest session is happening today. You don't have to hear from Alex and I. So, we're super pumped. It is going to be a lot of fun. We are going to get Grayson here
+
+00:00:23.000 --> 00:00:29.000
+In a second, but there she is. Hey, Grace.
+
+00:00:29.000 --> 00:00:30.000
+As she's getting that ready. There we go.
+
+00:00:30.000 --> 00:00:33.000
+There we go. We did it.
+
+00:00:33.000 --> 00:00:36.000
+We did it. How are you doing today, Grace?
+
+00:00:36.000 --> 00:00:51.000
+I'm great. I have been looking forward to this for weeks, which means I've been refining and refining and refining my teaching for weeks, because there's so much I want this group to know, and so much has changed, even in the last two days
+
+00:00:51.000 --> 00:01:06.000
+I know, I know. Yeah, Astro is pretty crazy. Fable 5.1 is pretty crazy. That is the joy of the AI world is you really can never go longer than probably a few weeks before something big happens.
+
+00:01:06.000 --> 00:01:20.000
+It's so true. I have a friend who works at Anthropic and they have, over the time I've known them shrunk their product marketing plans from 90 days to 60 days, and now they're on like a month cycle
+
+00:01:20.000 --> 00:01:21.000
+That's crazy.
+
+00:01:21.000 --> 00:01:22.000
+Yeah.
+
+00:01:22.000 --> 00:01:31.000
+That's insane. It's insane. But yeah, it's fun. More benefit for us if they can ship things faster. So
+
+00:01:31.000 --> 00:01:34.000
+So true.
+
+00:01:34.000 --> 00:01:41.000
+Cool, cool. All right, we will wait a few more minutes, let people
+
+00:01:41.000 --> 00:02:00.000
+join few reminders. Grace and I, and mainly myself, are going to be looking at the Q&A. So if you have not done so already, go down to the three dots at the bottom, hit more, hit Q&A. That should then pop up the Q&A box at the bottom
+
+00:02:00.000 --> 00:02:08.000
+I will be looking at those, I'll be monitoring those, so make sure you guys throw all of your questions our way
+
+00:02:08.000 --> 00:02:31.000
+And I know Grace has graciously decided to extend an extra 15 minutes, so this will technically go until, what, 1:15 Eastern time. And so we will have time at the end for Q&A, but even throughout, if there's something that she is talking about that you guys don't fully understand, throw it in there
+
+00:02:31.000 --> 00:02:47.000
+And I'll start to get a Rolodex of questions to be able to ask her with… with that time and potentially even stop her along the way. But yeah, we're super, super excited about this, but again, make sure you, you use that Q&A button. That is what we are going to be looking at
+
+00:02:47.000 --> 00:02:50.000
+More than anything else.
+
+00:02:50.000 --> 00:03:08.000
+Agree, and I won't… I'm gonna have my full screen up, so I won't be able to see the Q&A as much, so definitely put it there, and the guys will keep an eye on it, and please stop me. That's how my classes go. It's why they never are the time that we think, because we get into such interesting
+
+00:03:08.000 --> 00:03:17.000
+conversations, and one person's question is so many other people's questions, so please ask.
+
+00:03:17.000 --> 00:03:18.000
+Not at all
+
+00:03:18.000 --> 00:03:31.000
+Yep, there's there's in the world of AI, there's truly no such thing as a dumb question. Yeah, do not be afraid to ask. Okay, few other housekeeping things. So as a reminder, everything here is going to be recorded and it will live inside of the Notion home
+
+00:03:31.000 --> 00:03:47.000
+Melody, if we can drop the link to the notion home, that's where everything is. Everything that you guys want, any resource that we'll be talking about, we'll make sure to follow up with Grace afterwards and get anything that she shared, and we will get that added to Notion. So
+
+00:03:47.000 --> 00:03:55.000
+If there's anything that you guys are looking for, go to Notion first, because odds are it is going to, to live there
+
+00:03:55.000 --> 00:04:10.000
+And then on Thursday, Alex and I are going to be picking up and we are going to be doing how to build a brand brain and in particular, creative strategy. We're going to be going deep into building a creative strategy brain for your team. So
+
+00:04:10.000 --> 00:04:26.000
+Make sure you're there, we'll be sharing the screen, we'll be walking through how to set it up, what even a shared brain is, all of those things. But this is one of our favorite sessions. So make sure that you make sure you set aside time to be able to
+
+00:04:26.000 --> 00:04:49.000
+Attend that or to watch the recording of it after. Also a reminder, a week from today, we are going to be hearing from Jacob Possil, who is the founder of HQ, which is a tool that we'll actually be covering a little bit on Thursday. And it is essentially building a shared living brain for your entire company. So not just creative strategy
+
+00:04:49.000 --> 00:05:07.000
+But entire company, he'll be walking through some of the best practices to build a brain and all the things. So that's going to be great, but that is our next guest session. In the meantime, as we kind of talked about Grace is… and, you know, I probably won't do it justice, but
+
+00:05:07.000 --> 00:05:22.000
+Grace is one of the best educators in the AI space. She's been able to work with some incredible companies that you may have heard of, like OpenAI, Anthropic, Target, Madewell. I could probably continue to go on and on
+
+00:05:22.000 --> 00:05:43.000
+And really, your whole thing is she is just great at taking this vast world of AI and everything that you can do with it and simplifying it down into, okay, here's how you can actually get value from it. So today she's going to be focusing a lot on marketing as we obviously this is a course for marketers
+
+00:05:43.000 --> 00:05:54.000
+So I'm really excited. Grace, again, I know that was probably just a sliver of the intro, but I'm going to kick it over to you and you can dive into everything.
+
+00:05:54.000 --> 00:06:11.000
+I think it's so cool you guys do this, by the way, and I think we're going to top last year's, but I'm going to be sharing my whole screen, so bear with me. They're going to be tabs all over the place because I want to do part deck, part demo, and just like Jimmy said, anything I share
+
+00:06:11.000 --> 00:06:27.000
+Minus some stuff that might be client redacted. Markdown files, they'll all be in the Notion hub, and if there's anything you particularly want us to add right away, just put it in the Q&A so we can all see it. Jimmy, give me a yes, if you can see my screen.
+
+00:06:27.000 --> 00:06:48.000
+Yes, you are all good. And Grace, one other thing too. I know you're not going to be looking at the chat, but Zoom has a weird setting where it's going to auto assign the two to host and panelists instead of everyone. So I think you have the ability to change that to everyone if you did want to respond or add anything in the chat. Just
+
+00:06:48.000 --> 00:06:55.000
+Just for future references. But but yeah, you're all good. I can see your screen, hear you well, so you are good to go.
+
+00:06:55.000 --> 00:07:10.000
+All right, sick. So I'm not going to actually go into presenter mode on my deck because I need to be moving around. I'll be zooming in to emphasize, but if anyone wants the deck afterward, it is yours. All right, let's do it. I'm going to spend
+
+00:07:10.000 --> 00:07:28.000
+5 seconds on who I am, because we have 4 things to go over that come directly from what you guys have asked for. Alright, I do want to tell you that I've been a marketer my whole life. I started at Madewell the day we had to get Instagram, and then I went to a venture firm, and then I started as a fractional CMO
+
+00:07:28.000 --> 00:07:38.000
+Graza, and got to work with Cody at Jones Road, who we all love. Ben went to Shopify as head of community for a bit to just support you guys in a different way, and then have had
+
+00:07:38.000 --> 00:07:44.000
+the last craziest 6 months of my life, getting to support and work with
+
+00:07:44.000 --> 00:07:59.000
+really great groups of people. All right, what we're giving you today, you didn't just ask for better ads. I mean, you did, but you have Jimmy and Alex and the gang here to do that. I'm gonna help us around systems thinking and automations
+
+00:07:59.000 --> 00:08:16.000
+that actually work and don't just give you a mess of more markdown files. What was interesting is 2 out of three of you aren't just creative strategists, you have so much more going on. Your founders, your marketing directors, so killer ads, let's think of that as, like, 60 or 70% of what you're learning over this time
+
+00:08:16.000 --> 00:08:37.000
+I'm going to get you before that, all the prep that comes with the research and the strategy and the ideation, things like it's the longest part of your process, so I want to help you come into a tool like Parker really super solid. I'm going to show you what I've built for clients. Agentic workflows, how to set those up. My process is kind of weird, but hopefully it lands with you guys and like true
+
+00:08:37.000 --> 00:09:00.000
+True, true, true start to finish processes that give you a range of client deliverables, not just ads, but other things that really round out your offer, whether you're in-house or working independently, like I did for six years. Okay, we couldn't start this without doing a battle of Astra and Fable. I know we're focusing on working in Claude code, but I thought it would be really fun
+
+00:09:00.000 --> 00:09:17.000
+To give them the same brief and see what we come up with. So, we have Fable on one side, and Astra on the other. Gave them the exact same thing. I said, build a fictional brand for plant supplements. Just wanted to see. So I gave this to them right before we hopped on. We're gonna come back
+
+00:09:17.000 --> 00:09:25.000
+About 30 or 40 minutes. This takes them 7 minutes. If you haven't messed around with this, we'll see. I want full websites. My hunch is we're gonna get
+
+00:09:25.000 --> 00:09:42.000
+very different experiences, but let's go. All right, first thing I want to talk to you about is what I call the strategy engine, and this checks all the boxes. This is an automated, fully end-to-end process that runs itself and then spits out content for me.
+
+00:09:42.000 --> 00:09:44.000
+My content
+
+00:09:44.000 --> 00:10:00.000
+is a bit ad-based, but it's really omnichannel marketing, so I get a mix of both, and I want to show you what this is. I'm going to break it down into the way I had to learn. I think you guys are a bit more advanced than what I'm going to be sharing, but I want to make sure I don't miss a beat
+
+00:10:00.000 --> 00:10:21.000
+Okay, real ask was like those Agentic workflows. You already got to see this. Let me tell you what the problem was with what I was doing. I was trying to produce content that was going to resonate for myself as a creator, and my course, which is my brand. I was scrolling forever. I was emailing myself a bajillion links. I don't know if you guys do the same thing. And then I
+
+00:10:21.000 --> 00:10:36.000
+panic choosing one interesting thing, researching it, and then putting something up that didn't really perform the way I want, because I simply just wasn't researching right and didn't have time. And I was only publishing in one place, so the way, like, Alex and Jimmy are everywhere on the internet, that was
+
+00:10:36.000 --> 00:10:54.000
+not what was working for me. It was super inconsistent. I was anxious. I don't know if any of you feel this way. Parker, of course, helps you generate a ton of stuff and move through this process, but ironically, the more time I was spending, the less result I was getting. So what I did instead was create a content and strategy machine
+
+00:10:54.000 --> 00:11:11.000
+TLDR, every morning I wake up, I have 10 ideas that are based on ROI for me, and then I move through the process, and my content machine will guide me through editing, drafting, finalize things, and then there's this
+
+00:11:11.000 --> 00:11:14.000
+part that I want to talk to you about that's a loop. Jimmy will go into loops more, but
+
+00:11:14.000 --> 00:11:26.000
+I have six personas who you guys will all know who edit and edit and edit my draft until they all rank it in eight out of 10. And then I get to finally publish it. So let me show you one example.
+
+00:11:26.000 --> 00:11:29.000
+It'll be small, I'll zoom in
+
+00:11:29.000 --> 00:11:44.000
+So I get 10, sometimes more ideas every day. This comes to me in Claude code and they're ranked and Claude has taken the liberty of ranking them based on what it thinks it will do for me because it understands to me what performance is
+
+00:11:44.000 --> 00:11:55.000
+It pulls things from my world, my client calls, my client comms, things I've tweeted, notes that I've taken to myself, ranks them what it say
+
+00:11:55.000 --> 00:12:11.000
+funny quotes from students, in class. I told them, don't buy anymore tools until we finalize your tech stack, and then it pulls from the world. It's searching on Reddit and Twitter. I use a tool called Apify to scrape, additional things that can actually watch
+
+00:12:11.000 --> 00:12:16.000
+Instagram reels and transcribe them for me, and it's just letting me know what's going on
+
+00:12:16.000 --> 00:12:31.000
+on Rachel Carton, if any of you know her. Hi, Rachel. I will send this to you. And then, what comes out of that, after a bit of editing, is my best performing tweet of the year, which is so unremarkable, I would never have thought this, but I just annotated GitHub
+
+00:12:31.000 --> 00:12:42.000
+And what a repo was, and this was really successful for me in my world, and I get this out of just spending 20 minutes every morning. So I wanted to show you how I do it
+
+00:12:42.000 --> 00:12:49.000
+It started with sketching. This is my best recommendation to anyone who wants a
+
+00:12:49.000 --> 00:13:06.000
+True workflow end-to-end, whether you want to be human in the loop or you want to be out of it and have it run itself on its own. I do not know my processes with the power of AI. I'm limited to my own imagination. So what I've gotten good at doing is just sketching things out and giving Claude
+
+00:13:06.000 --> 00:13:21.000
+This visual with very little prompt, and I'm like, no constraints, do your best. What do you think? And it can read, of course, everything. I told it I wanted to be interrogated under a bright light the way I would do if I was kidnapped. I wanted it to really pull the best out of me
+
+00:13:21.000 --> 00:13:24.000
+And I threw that into Claude Code
+
+00:13:24.000 --> 00:13:28.000
+This was so long ago, I really couldn't find the session, which is why you're seeing
+
+00:13:28.000 --> 00:13:30.000
+screenshots
+
+00:13:30.000 --> 00:13:32.000
+Here's my voice note prompt
+
+00:13:32.000 --> 00:13:38.000
+TLDR, give me something that's gonna really raise my metrics, cross all profiles, let a rip
+
+00:13:38.000 --> 00:13:45.000
+Claude was like, I think I got you, let me map out the process. This is what it did step by step
+
+00:13:45.000 --> 00:13:46.000
+I'll jump here
+
+00:13:46.000 --> 00:14:01.000
+You talked a little bit last week, if you guys were here, on the difference between a simple skill that does, like, one thing on demand, or some skills that are chained together. I think, Jimmy, you were talking about this, the breakfast analogy. Yeah
+
+00:14:01.000 --> 00:14:17.000
+So this is basically making the most complex breakfast of all time, but instead of chaining skills together, you know, one and then the other, what Claude recommended to me was one skill that was going to run the whole process, and then along the way
+
+00:14:17.000 --> 00:14:33.000
+point to small markdown files that are just lists. For example, this skill kicks off the whole process, and it will stop along the way. It will say, search the internet, search my internal context, my circle back tools, but instead of these long skills
+
+00:14:33.000 --> 00:14:41.000
+Claude just goes to small lists. Search the internet, are people I follow, topics I follow on Reddit and Twitter, news sources
+
+00:14:41.000 --> 00:14:56.000
+gets a list, and then it moves on to my internal context, my circle back, my Gmail, and it just bounces along that process. I would have no idea that I needed skills and then small markdown files, but it makes for a very efficient
+
+00:14:56.000 --> 00:15:02.000
+process, because Claude is running one skill, and then just picking what it needs.
+
+00:15:02.000 --> 00:15:14.000
+I'll show you what this actually looks like in practice. But these are just small different steps that came from me telling Claude I need an end-to-end workflow, I need it to work every single time, and I need it to take me 30 minutes
+
+00:15:14.000 --> 00:15:33.000
+It spits out a draft, and then this is something so important, it will log its own feedback. So it speeds up the process every single time. And this is just an end command. This is a skill, because Claude needs to go right in certain areas, needs to put some things in a Google Sheet, it needs to update
+
+00:15:33.000 --> 00:15:50.000
+Some of these specific lists. I realized I wanted to change who was on my auto editor board. So Claude will take that and run it for me. This all takes 30 minutes every single day, and I get one piece of content that is split, it's a tweet, and then it goes LinkedIn, and something for my substack, and
+
+00:15:50.000 --> 00:15:53.000
+Another place
+
+00:15:53.000 --> 00:16:00.000
+I should remember. But anyway, I wanted to give you guys another hack for doing this. If you're in Claude code and you're finding
+
+00:16:00.000 --> 00:16:11.000
+Claude code UX to be a little inhospitable. I want you to say, make a visual HTML of what the you're talking about, because this was, like, not making sense to me.
+
+00:16:11.000 --> 00:16:14.000
+So alongside all this
+
+00:16:14.000 --> 00:16:27.000
+what is this? I'm actually wanting to skip reading Markdown. I had Claude just mock up a visual so we could look at what was happening step by step, and I'll share that with you.
+
+00:16:27.000 --> 00:16:31.000
+And Jimmy, tell me if we've switched to a workflow. All right, sick.
+
+00:16:31.000 --> 00:16:32.000
+You're good.
+
+00:16:32.000 --> 00:16:42.000
+Cool. So what's happening here is Claude is saying, am I on the right page? Is this what you want? You want me to look in two places? You want me to rank things
+
+00:16:42.000 --> 00:17:00.000
+And you can actually type into it, which is great. I hate scrolling. I don't know if anyone else feels that ADHD, but, like, linear text-based work is not the only way we need to work anymore. So I went through this with Claude, and it was like, all right, girl, you need all these things. You need the skills, you need the markdown files
+
+00:17:00.000 --> 00:17:16.000
+You need the docs at Reed's. And Claude worked on these. Jimmy showed you what it looked like when there were options for making breakfast and different recipe cards. This is the exact same thing, but I didn't have to choose that. Claude did. I said, yep, this is good to go, and we're off to the races.
+
+00:17:16.000 --> 00:17:27.000
+Skills you've seen, they look like this. I don't love reading Markdown anymore. I actually ask for visuals for all my markdown. And this was something I learned from Tariq
+
+00:17:27.000 --> 00:17:36.000
+Anthropic when he was interviewed on Clervo's podcast. If anyone wants to see that, look up HTML, Brainstorm, Clairvo, and you'll get it
+
+00:17:36.000 --> 00:17:46.000
+So these models are now getting better at one-shotting, so try giving them a sketched out workflow and nothing else, and I want you to see what happens.
+
+00:17:46.000 --> 00:17:49.000
+All right, just in the interest of time, I'm going to skip
+
+00:17:49.000 --> 00:17:54.000
+The next mock-up of a workflow and show you other things that I've built
+
+00:17:54.000 --> 00:18:01.000
+With HTML, and then I want to go onto something called the morning crystal ball
+
+00:18:01.000 --> 00:18:02.000
+But sometimes
+
+00:18:02.000 --> 00:18:20.000
+And Grace, while you're pulling that in, one question I have for you, when you are asking it to be visual, and in particular HTML, is there like a reason for HTML? Or I know like Claude has artifacts that it generates for you. Is there, like, a
+
+00:18:20.000 --> 00:18:25.000
+You know, kind of like, I guess why HTML versus, you know, maybe other things
+
+00:18:25.000 --> 00:18:39.000
+Yeah, true. Okay, so, maybe I can pull one up, but first, fastest thing is right here, HTML is just the first version of it, and it's interactive, and it's hyper-responsive.
+
+00:18:39.000 --> 00:18:54.000
+Artifact is going to be the saved, documented version. What I really like about HTML beyond artifacts is that I actually publish this to a tool, like a hosting platform like Netlify. Some of you might use Netlify or Supabase
+
+00:18:54.000 --> 00:19:14.000
+This is not really that private. Anyone can look at this, but I'll show you some client documents that do need to be password protected and encrypted, and we can now share artifacts. You might be thinking about, like, well, you can just share artifacts in Claude, but that hasn't always been the case, and I got really comfortable with HTML and editing it live
+
+00:19:14.000 --> 00:19:25.000
+in the sidebar just the way that I would giving it feedback. So I should actually try another round of a process like this.
+
+00:19:25.000 --> 00:19:26.000
+So
+
+00:19:26.000 --> 00:19:42.000
+Decent answer habit, comfortability, password password encryption. And here's an example of something that did need to be encrypted that were all from the last month, but of course times have changed.
+
+00:19:42.000 --> 00:19:43.000
+All right.
+
+00:19:43.000 --> 00:19:48.000
+barstool. This is an HTML file. I'm gonna go to it
+
+00:19:48.000 --> 00:20:09.000
+The reason I needed this to be developed in HTML at first is because I needed it to be interactive. So this is what it looks like. It's on Netlify, you can see in the URL. And this is a free tool unless you go crazy like I do and have a ton of stuff hosted. But Barstool was doing some setup for the first time, and I needed them to have something that I could follow
+
+00:20:09.000 --> 00:20:13.000
+I, on the back end can see when they've done their homework
+
+00:20:13.000 --> 00:20:22.000
+So I wanted to follow along, and I wanted to be supportive in their onboarding. Another reason I did this is because I wanted
+
+00:20:22.000 --> 00:20:31.000
+interactive AI to be the first thing we did together. I wanted it to be a demo of what they were going to be doing for advertiser presentations and internal comms.
+
+00:20:31.000 --> 00:20:37.000
+And then you can link out to other documents. But there are a few others I wanted you to see
+
+00:20:37.000 --> 00:20:56.000
+Part of this process, by the way, is that Claude, when it's generating a proposal, will actually go search endlessly for the word mark, the brand colors. And this is a skill. So encoded in this skill is do not stop until you found the logo and make sure the logo appears in three places
+
+00:20:56.000 --> 00:21:12.000
+their Instagram, their LinkedIn, or their website, because I want to make sure it's the right logo. Otherwise, they could find some random company called Parker and think that that was fine. So over the time, I realized I had to really correct this. So here's what happens when we have a real proposal that's on Netlify
+
+00:21:12.000 --> 00:21:27.000
+Hosted here. Claude has read all of my transcripts, all of my comms with this person, and it spits out my version of a proposal in an HTML I'm writing in it, I'm typing in it, and then it gets a password.
+
+00:21:27.000 --> 00:21:41.000
+And it goes to the client or the person that I'm working with, all because I realized when I was making this visually, I thought, that looks good. I should make this part of my introduction to the client, but I wouldn't have known if I hadn't messed around
+
+00:21:41.000 --> 00:21:45.000
+With visual HTML
+
+00:21:45.000 --> 00:22:04.000
+Tip for you guys, if you find yourself doing a lot of work on the go, which I do, I desperately need to be able to voice note Claude and have it do things for me. And luckily now the mobile app, even in the last couple weeks has become so much better. You can actually work and co-work. You can
+
+00:22:04.000 --> 00:22:22.000
+Use your connected tools. This is Apify, the one that scrapes Twitter. I said, look at the latest tweet from New York Magazine about the cover story and add it to the list where I keep Substack ideas. And it's like, great, found it. This took 25 seconds, otherwise it would have been something on my to-do list
+
+00:22:22.000 --> 00:22:32.000
+Strategists, especially people who are working on ads, come across ideas much faster than I do. So I want you to know that this is a very easy way
+
+00:22:32.000 --> 00:22:41.000
+If you haven't started doing this yet, to actually be working on the go and say, put this idea in Asana, assign this as a task in
+
+00:22:41.000 --> 00:22:54.000
+Monday, or you can actually voice note Higgs field, which is cool. You can pull your call notes, but get the mobile app if you don't and make sure you're working in co work. That's a different tab than chat.
+
+00:22:54.000 --> 00:23:09.000
+summary, if anyone is going to be reading this afterward, but let's talk crystal ball, which is a bit of a mini app that you can make that handles that research part of the work before we get into a tool like
+
+00:23:09.000 --> 00:23:18.000
+Parker, this is, like, searching the world over with a bit of direction. So I'll show you what was going on
+
+00:23:18.000 --> 00:23:24.000
+Everyone wants a ride. Wide range of data. And thanks to everybody for really putting effort into
+
+00:23:24.000 --> 00:23:29.000
+explaining what you needed. It's the only way that I can be helpful, and this is what I do before every class.
+
+00:23:29.000 --> 00:23:34.000
+You want an easier and better way to make data back decisions.
+
+00:23:34.000 --> 00:23:47.000
+Spitting out a ton of ad volume is not what anyone wants. You are much more strategic about this. So I'm going to give you the way I would go about it. And hopefully this plays. This is a crystal ball. This is
+
+00:23:47.000 --> 00:24:06.000
+an app that gets texted to everybody every morning. I'll go into this much more detail, but imagine getting this texted to your phone, and it's a really easy-to-read mobile app, and it briefs you on everything happening in your industry that day without a ton of bloat. You can also screenshot the parts that are interested to you… interesting to you, and send that to Claude, and be like
+
+00:24:06.000 --> 00:24:14.000
+Oh my god, this company just did earnings. They're for sure raising money. That means we need to go hard. If we want to be grooons
+
+00:24:14.000 --> 00:24:16.000
+We better understand what's happening.
+
+00:24:16.000 --> 00:24:34.000
+So what was happening before is I was opening 10 tabs and trying to find a bunch of data. I was in Triple Whale and Amazon Seller Central, Shopify. Not only was this just impossible to read, it's really difficult to correlate all that data and find patterns that are statistically significant
+
+00:24:34.000 --> 00:24:51.000
+Even if I had all the time in the world, it's not my strong suit, and I didn't want to be bogged down doing this. I also could not find a way to get teams moving in the same direction. So I thought, let me give them a fake newspaper, and it's just our morning home page, and it's easy to read, most people commute
+
+00:24:51.000 --> 00:24:57.000
+Let me see what I can do. So we made a private newspaper that brings all of that together
+
+00:24:57.000 --> 00:24:59.000
+Along the way
+
+00:24:59.000 --> 00:25:12.000
+As Claude mocked this up, I was like, that's amazing. Could we pull in Sephora reviews? Typically, you can't really export that type of data from a retailer like that, and if we're working on performance-driven brands
+
+00:25:12.000 --> 00:25:16.000
+they may be selling in other places besides their website.
+
+00:25:16.000 --> 00:25:31.000
+So, of course, magic of Claude. I was like, could you pull those anyway? And it was like, yes, there's a free API, which I would never have thought of. So just by going through the process of making this, we scraped a bunch of information across the competitor set, which was
+
+00:25:31.000 --> 00:25:40.000
+incredibly helpful to analyze. We got to see categories. Sephora was investing in any retailer that uses
+
+00:25:40.000 --> 00:25:48.000
+bizarre voice. This is free. I hope this lasts forever. Anyway, a couple more things that were going on
+
+00:25:48.000 --> 00:25:55.000
+found a ton of information. Then I thought, let's update this with public data, and I want to show you what we got.
+
+00:25:55.000 --> 00:25:59.000
+And it looks sick on mobile.
+
+00:25:59.000 --> 00:26:04.000
+Password protected. Remembering all these passwords is the hardest part of the job.
+
+00:26:04.000 --> 00:26:07.000
+So this was yesterday.
+
+00:26:07.000 --> 00:26:10.000
+Because there's something private in today's.
+
+00:26:10.000 --> 00:26:28.000
+But everyone wakes up to this, and it gets texted to your phone, so it actually shows up in your iMessage, because this is running by an agent, and I know you'll talk about agents later that are hosted elsewhere. This is why it can run an iMessage and do things that typically Claude couldn't. But it's just gonna pull some news and what this means for the brand
+
+00:26:28.000 --> 00:26:43.000
+this always turns into either an ad idea or an ad set idea or a marketing campaign idea. And whether it goes anywhere, the point is that we're getting constantly generated, and then this also shows up in Slack, so we can keep talking about it.
+
+00:26:43.000 --> 00:26:59.000
+This was interesting. Polling big information from the big guys. So when road acquired Elf, that would have been something we really wanted to talk about and understand why. And all of our past editions are here. This was all made by me just talking with Claude actually kicking it off on voice note
+
+00:26:59.000 --> 00:27:13.000
+On a walk, and then taking the work once I got to a desktop space. Social listening is a true pain for me, because Claude really doesn't have a good time going to Reddit. You could actually get banned, but these forums are gold
+
+00:27:13.000 --> 00:27:18.000
+And as I'm sure you guys all know, there's just tons of real people information there
+
+00:27:18.000 --> 00:27:26.000
+So we used Apify to connect to a bunch of different platforms. If you haven't seen Apify, I'll show you
+
+00:27:26.000 --> 00:27:28.000
+All right.
+
+00:27:28.000 --> 00:27:46.000
+So, it's like a little store for connectors that go and run very specific jobs on other platforms. Here are my favorites. These are what are going on for me, but you can search just tons of information and it keeps a log of what it pulls
+
+00:27:46.000 --> 00:28:03.000
+Each time Claude or Apify will scrape, you know, for my strategy engine, it will pull tons of results. They are like 20 cents for the whole thing. It is… I don't understand the economics of this, and we don't have to, so we're just gonna run with that. But
+
+00:28:03.000 --> 00:28:12.000
+search Apify. If you have any questions, I can also tell you… well, you'll be able to see the recording, so you can screenshot the ones that I use. Okay.
+
+00:28:12.000 --> 00:28:24.000
+So this was this is recent, but this was a mock-up that I gave to the brand when I was telling them this is what's possible for you. Like this is this took 10 minutes to code
+
+00:28:24.000 --> 00:28:25.000
+So there you go.
+
+00:28:25.000 --> 00:28:37.000
+Pulls information across other categories, and then sometimes we'll see something going on here, new launch, and we'll go to their Facebook ad library that maybe we wouldn't have, especially if we didn't have Parker
+
+00:28:37.000 --> 00:28:39.000
+All right, so that's going on
+
+00:28:39.000 --> 00:28:52.000
+Hey, Grace, quick question for you. How do you know when you need something on Apify versus just, like, Claude being able to… or ChatGPT being able to access it directly?
+
+00:28:52.000 --> 00:28:54.000
+Do you mean
+
+00:28:54.000 --> 00:29:02.000
+say that both platforms could do the same thing. Like, Claude could theoretically access Twitter, and Apify could, why would I choose one over the other?
+
+00:29:02.000 --> 00:29:21.000
+Yeah, or just like, how do you know if some like Reddit, for example, how do you know that Claude doesn't just have access to Reddit or ChatGPT doesn't have access? Like, is there an easy way to know kind of like, oh, when do I actually need to pull in something using Reddit versus just like out of the box what ChatGPT and Claude can do
+
+00:29:21.000 --> 00:29:38.000
+Totally. I just learned by asking Claude. And my habit with Claude, I hope everyone does the same thing, is ask again. We know this Claude will sometimes say, I can't do that. And I'll usually give it three times. I'll be like, find another way. I know you can. Even if I don't know that
+
+00:29:38.000 --> 00:29:56.000
+But my habit is to press these tools because they are also, at least some of the models designed to give us answers quickly so we can iterate together. And sometimes that means it will grab an answer from one place that is partially true, but not proactively
+
+00:29:56.000 --> 00:30:15.000
+go look for other solutions. So, TLDR, ask Claude three times, like knock on its door, and then if it says, I really, really can't, it's security related, or in the case of Reddit, bot traffic gets blocked. It literally cannot do it. Then say, what are other tools I can use? What's the cost? And that led me to Apify.
+
+00:30:15.000 --> 00:30:31.000
+And then I searched Claude Apify on Twitter just to see what other people were saying. And that process has served me very well. It's also how I learned that Gemini is incredible at watching video and Claude couldn't when I started
+
+00:30:31.000 --> 00:30:43.000
+It's also how I learned that even Gemini at that time couldn't transcribe Instagram videos and so many of my clients were being mentioned by creators and video
+
+00:30:43.000 --> 00:30:54.000
+And that transcript wasn't showing up in the comments, but Claude can't watch video and transcribe, so that was another reason I… another instance that I ended up looking for another tool
+
+00:30:54.000 --> 00:30:57.000
+Does that make sense?
+
+00:30:57.000 --> 00:30:58.000
+Cool.
+
+00:30:58.000 --> 00:31:03.000
+Yeah, yeah, for sure. I know, when in doubt, just ask Claude or ChatGPT and odds are they're going to have a good, good idea.
+
+00:31:03.000 --> 00:31:05.000
+Yeah, imagine teaching
+
+00:31:05.000 --> 00:31:15.000
+the C-suite at a PE firm, and they're like, well, what's the answer? And I'm like, I'm not being defensive, just ask Claude, I'm so serious. You need to get in the habit
+
+00:31:15.000 --> 00:31:29.000
+of using these tools the way that they're meant to be used. You have a genius coworker online, you have a team of engineers online waiting for you the minute you have a login. Like, don't waste your time coming to me. I'm happy to talk about it, but
+
+00:31:29.000 --> 00:31:36.000
+One of the best investments I can make in my teams and clients and execs is getting them used to using these tools
+
+00:31:36.000 --> 00:31:39.000
+the way you guys do, but they just don't want to be seen
+
+00:31:39.000 --> 00:31:41.000
+you know, failing. So
+
+00:31:41.000 --> 00:31:42.000
+Yep
+
+00:31:42.000 --> 00:31:49.000
+I wanted to give you on that note, some of the habits of the best operators that I've observed over the last
+
+00:31:49.000 --> 00:32:04.000
+4 months of working with them. And these are people who aren't necessarily founders. They are just early adopters who are really leading the charge, either inside their company, if they're in-house, or working with clients. So.
+
+00:32:04.000 --> 00:32:21.000
+work agnostic, these are some themes, and I think they'll also show you, from my view where all this is going. And one of them, of course, is making agents open claw, Hermes, so you guys get that at the end of this course. So this is a bit of a ramp
+
+00:32:21.000 --> 00:32:43.000
+First thing is they are all truly institutionalizing the practice and growth of AI. We have marketing meetings every week. Why on earth wouldn't we have AI meetings every week? Giving your team a login is not leverage, and there are some incredible traditions in the world of software engineering. Like, we all know demo days, but it's a very different type of show and tell
+
+00:32:43.000 --> 00:32:45.000
+than some of us
+
+00:32:45.000 --> 00:32:52.000
+had ever participated in. So what I did was make a form that anyone can use. It's linked
+
+00:32:52.000 --> 00:33:07.000
+Maybe down here. Anyway, I give this to my clients or my teams, and I'm like, we are putting a meeting on your calendar every Friday, and it's 15 minutes. You're showing up. I don't care. You're dialing in, but, like, you are there and you are contributing to the knowledge of your team. You are sharing
+
+00:33:07.000 --> 00:33:10.000
+One thing you built, or one new use case
+
+00:33:10.000 --> 00:33:13.000
+Small, big, doesn't matter.
+
+00:33:13.000 --> 00:33:27.000
+Theoretically, this started at MIT's Media Lab in the 80s, but lore is lore, and sometimes we don't know, but I don't care, because I have seen this 10 out of 10 times get AI integrated into a system
+
+00:33:27.000 --> 00:33:43.000
+Because someone on the ops team will say, I should really be using that version of our work that you're pulling on Amazon fulfillment. And it just makes it contagious, very human, people bring up concerns. And then, to help people like me, who don't understand the narrative of
+
+00:33:43.000 --> 00:33:49.000
+Developing a demo day script, you know, problem solution really concise.
+
+00:33:49.000 --> 00:34:06.000
+You can have Claude help you generate what would be a demo script and get really concise because hopefully, eventually, if you have investors, your company will set your investors will say like, dunno what you've been up to and like you are ready to go.
+
+00:34:06.000 --> 00:34:14.000
+Click this link if anyone wants it. I've also seen leaders get into a groove working with AI tools and
+
+00:34:14.000 --> 00:34:32.000
+realize how powerful it is that they're just limited by what they can think, so they actually have Claude with a prompt, very common prompt, say, mine, all of their internal context and recommend automations, not just skills, but automations, and say, this is going to get you X number of hours back
+
+00:34:32.000 --> 00:34:44.000
+Or my hypothesis is we can change ROAS or CPMs over X period of time with this. And I got this idea watching a podcast with Claire Vo
+
+00:34:44.000 --> 00:35:00.000
+who clearly I love with Matt, the founder of Suzy, this was last year, and this has been still so successful for the teams I work with, but I linked to it, and it was so helpful. I actually made a prompt based on what he said
+
+00:35:00.000 --> 00:35:17.000
+Claude is magic with extremely abstract direction. You can see I update my prompts as I learn more. So throw this one into Claude and it will come back to you with four to five ideas. But letting Claude tell you where it can be helpful is really
+
+00:35:17.000 --> 00:35:31.000
+Surprisingly powerful. They also use every tool that comes out, even the risky ones. And I know that instinct got mentioned, but every leader I know has been making teams on Grok bot
+
+00:35:31.000 --> 00:35:37.000
+And spending time with them. There are all kinds of templates online. Now, truly people, it's like
+
+00:35:37.000 --> 00:35:38.000
+It's like
+
+00:35:38.000 --> 00:35:48.000
+I don't know if you've ever pulled a template and bought a template visually offline. You can buy people's Grokbot templates and build them out, and
+
+00:35:48.000 --> 00:36:00.000
+Super bizarrely easy to get started. Same thing on Instinct, which is happening in my iMessage right here. I still have some invite codes if anyone wants to try it at your own risk, it is
+
+00:36:00.000 --> 00:36:16.000
+really strange their data processes in terms of service, but my job is to push to the end so that I can recommend things to people. Now I know enough to say, this is really unsafe. It's living in your tools and storing copies of every email
+
+00:36:16.000 --> 00:36:20.000
+it sees. That's why it can be proactive and flag things out of nowhere.
+
+00:36:20.000 --> 00:36:28.000
+One day, the big labs will get here. I don't know why they haven't yet making these tools simple.
+
+00:36:28.000 --> 00:36:40.000
+But for now they exist, and every leader I know is spending time in the way that they're comfortable getting familiar with this, and then they bring this to that demo day meeting every week, and they tell the teams what are going on.
+
+00:36:40.000 --> 00:36:53.000
+And the last thing they do, which is I'm so pumped for you guys to do this, is actually making agent teams that report to each other. So this is from a company called Deliberate.
+
+00:36:53.000 --> 00:37:09.000
+And their tech stack is not dissimilar to what we're already using. So, Claude and OpenAI and Gemini, Higgsfield, Kyiv archive, however we pronounce it. And then the usual suspects. I imagine you guys are using a bunch of these
+
+00:37:09.000 --> 00:37:20.000
+Human sits at the top reports to one chief of staff agent, which is underneath, I'd say, you know, 20 markdown files, a couple skills, and routes everything.
+
+00:37:20.000 --> 00:37:30.000
+assigns these agents to work together. We'll put together pull requests, we'll review pull requests, we'll update plugins that hang out in
+
+00:37:30.000 --> 00:37:36.000
+GitHub for the whole team. But this company is now four people. As other people left
+
+00:37:36.000 --> 00:37:44.000
+this year and went on to other jobs. Instead of replacing teams and replacing people, this company was like, let's see how
+
+00:37:44.000 --> 00:37:53.000
+much support we can bring to the people who are left by giving departments agents. And
+
+00:37:53.000 --> 00:38:09.000
+This is much more I learned straightforward than I thought this was scary to me. And having a Mac Mini now and a monitor is so accessible and you have someone incredible, I think in a week or two who's going to be going over this
+
+00:38:09.000 --> 00:38:12.000
+a much more approachable way, but
+
+00:38:12.000 --> 00:38:23.000
+Giving your team support, teaching them workflows, and then giving them agents, at least as an experiment, is just a universal trend that I'm seeing
+
+00:38:23.000 --> 00:38:35.000
+Alright, let's go back to what's happening with Astra and Fable. Remember, they got the same prompts. If anyone hasn't seen what Astra is up to
+
+00:38:35.000 --> 00:38:43.000
+I don't want to distract from our practical work on Claude code, but I thought I might show you some things. Just quick videos there
+
+00:38:43.000 --> 00:38:47.000
+I don't know, 10 seconds, 20 seconds, with a very vague prompt
+
+00:38:47.000 --> 00:38:50.000
+This is what Astra can do.
+
+00:38:50.000 --> 00:38:52.000
+bring motion to your site
+
+00:38:52.000 --> 00:38:58.000
+I think this took four rounds from the company that did it. They turned this into an ad.
+
+00:38:58.000 --> 00:39:07.000
+Really straightforward and I think this one cost like $1.50. I'm going to show you one that costs like $20.
+
+00:39:07.000 --> 00:39:23.000
+This one, which is insane. It came out this morning. It's a true creator, like content creator. So this person is an art director with Astra. I don't think the expectation is that we do this, but I want you to see how nutty this can be. And they did this
+
+00:39:23.000 --> 00:39:26.000
+in Codex and Higgs Field
+
+00:39:26.000 --> 00:39:32.000
+What… that blew my mind, and this cost $20.
+
+00:39:32.000 --> 00:39:34.000
+Nuts
+
+00:39:34.000 --> 00:39:50.000
+And one more I want to show you that to me seems really useful for e-comm because you can basically pull something off a retail shelf. And if you're Graza, like this would have made me so happy if I could show someone pulling Graza off a shelf at Whole Foods in an ad
+
+00:39:50.000 --> 00:39:56.000
+But this is, like, a book catalog. Okay, so let's go see what happened for us.
+
+00:39:56.000 --> 00:40:00.000
+Remember, we had we asked these tools to make us
+
+00:40:00.000 --> 00:40:05.000
+a website, let's see what it can do with plant
+
+00:40:05.000 --> 00:40:07.000
+supplements
+
+00:40:07.000 --> 00:40:10.000
+So let me pull up these guys
+
+00:40:10.000 --> 00:40:23.000
+I entered this, like, right before we started our time together. Okay, let's see if I can open this.
+
+00:40:23.000 --> 00:40:26.000
+Nothing like a demo where
+
+00:40:26.000 --> 00:40:34.000
+You gotta think on the fly if this takes a sec, I'll go back to Claude. Oh, here we go, okay. So I asked for 3
+
+00:40:34.000 --> 00:40:39.000
+Across the top, this is so weird. I asked for three different
+
+00:40:39.000 --> 00:40:46.000
+Models across the top. Let's go through them. So botanical. It has decided to name this still. Okay
+
+00:40:46.000 --> 00:40:48.000
+Electric
+
+00:40:48.000 --> 00:40:50.000
+Okay
+
+00:40:50.000 --> 00:40:51.000
+An editorial
+
+00:40:51.000 --> 00:40:53.000
+Which looks like ESOP, okay.
+
+00:40:53.000 --> 00:40:58.000
+I like this one best, so let's go down and see what's going on.
+
+00:40:58.000 --> 00:41:00.000
+Nice.
+
+00:41:00.000 --> 00:41:08.000
+Remember, this is just a front end. We can click around. This isn't going to be hosted anywhere.
+
+00:41:08.000 --> 00:41:09.000
+Cool. So
+
+00:41:09.000 --> 00:41:19.000
+this is great. We wanted to see some prototypes. It's easier for us to react to this stuff, and we could easily say, ChatGPT, this is great, but give us some room to type
+
+00:41:19.000 --> 00:41:27.000
+You can't yet leave team comments like you can in Figma. I know it's useful for us to be able to do that.
+
+00:41:27.000 --> 00:41:28.000
+Okay.
+
+00:41:28.000 --> 00:41:29.000
+Cool
+
+00:41:29.000 --> 00:41:31.000
+Don't know where this links.
+
+00:41:31.000 --> 00:41:36.000
+Alright, let's go see what was happening with Claude.
+
+00:41:36.000 --> 00:41:40.000
+Different
+
+00:41:40.000 --> 00:41:43.000
+Thirsty, okay.
+
+00:41:43.000 --> 00:41:50.000
+I like that direction better. Here we go. We got some different variations. Let me make this bigger for us
+
+00:41:50.000 --> 00:41:53.000
+Okay, we'll start with Sunroom
+
+00:41:53.000 --> 00:41:56.000
+Water is fine. This is better.
+
+00:41:56.000 --> 00:41:57.000
+all the copywriters in the room, just hold your breath
+
+00:41:57.000 --> 00:42:01.000
+Hey, Grace, I think you're still on the ChatGPT one
+
+00:42:01.000 --> 00:42:06.000
+Oh, am I? Okay. Let me change it for us.
+
+00:42:06.000 --> 00:42:07.000
+Got it.
+
+00:42:07.000 --> 00:42:08.000
+Do you think a lot of purple?
+
+00:42:08.000 --> 00:42:10.000
+Yep.
+
+00:42:10.000 --> 00:42:13.000
+Alright, cool.
+
+00:42:13.000 --> 00:42:15.000
+So we get some motion
+
+00:42:15.000 --> 00:42:21.000
+This prompt was very basic
+
+00:42:21.000 --> 00:42:22.000
+Okay.
+
+00:42:22.000 --> 00:42:25.000
+We got some subscription
+
+00:42:25.000 --> 00:42:28.000
+Discounting
+
+00:42:28.000 --> 00:42:36.000
+Theoretically, choosing product by your plants much simpler, which I have found Claude is like
+
+00:42:36.000 --> 00:42:42.000
+a little tighter, which doesn't mean worse, it means it's more efficient
+
+00:42:42.000 --> 00:42:47.000
+All right, we're not getting different taglines. We're just getting different visuals.
+
+00:42:47.000 --> 00:42:49.000
+Okay
+
+00:42:49.000 --> 00:42:52.000
+Interesting. I am
+
+00:42:52.000 --> 00:42:57.000
+I am intrigued. That's what we've really been playing with. It's certainly not
+
+00:42:57.000 --> 00:43:04.000
+the highest use of Fable or Astra, but now we can get a feel for what's going on. Using my quad
+
+00:43:04.000 --> 00:43:05.000
+Yep
+
+00:43:05.000 --> 00:43:07.000
+All right, cool.
+
+00:43:07.000 --> 00:43:23.000
+Let's go back to what we were working on. We saw this, and in the back, by the way, I didn't want to overwhelm anyone who got the deck, but I'm going to be dropping in all sorts of Markdown or prompts that support this, but
+
+00:43:23.000 --> 00:43:33.000
+Weren't as pressing as everything else. If you want to build a board of directors, you can take mine and throw it into your Claude
+
+00:43:33.000 --> 00:43:45.000
+My view on skills, by the way, is not to copy them unless you really trust the person. Like, unless it comes from Anthropic, unless it comes from Parker. I tell people to open a prompt
+
+00:43:45.000 --> 00:43:50.000
+Like this, and throw it into Claude. Or if you want to take a skill
+
+00:43:50.000 --> 00:43:52.000
+Like mine.
+
+00:43:52.000 --> 00:43:54.000
+My markdown's all here
+
+00:43:54.000 --> 00:44:05.000
+But I encourage people to select it with a prompt at the top rather than just wholesale install my skill. I'm paranoid.
+
+00:44:05.000 --> 00:44:20.000
+So unless you trust the source, don't do it. I also want people to understand how to make a custom connector. Jimmy asked, sometimes your Claude can't do certain things or reach tools out of the box, so we need to roll up our sleeves and do it ourselves sometimes.
+
+00:44:20.000 --> 00:44:34.000
+really important to me that my Claude can edit Google Sheets in an easier way, and that's not Claude's superpower right now. So I tell people how to do that and lead them through making settings in Google and giving Claude
+
+00:44:34.000 --> 00:44:36.000
+That handshake.
+
+00:44:36.000 --> 00:44:43.000
+It's a really straightforward process. It's good to do if you're watching a football game or something on TV, because
+
+00:44:43.000 --> 00:44:59.000
+You're just going back and forth with Claude, and it's very straightforward. But if you own a team plan. Let's say you're an admin, you can do these settings and they apply to everyone. So anyone on your team can open their cloud and this will push to it
+
+00:44:59.000 --> 00:45:05.000
+Which is really relieving. I didn't realize that at first when I started helping teams configure. Okay.
+
+00:45:05.000 --> 00:45:07.000
+We covered
+
+00:45:07.000 --> 00:45:24.000
+A lot. Just to recap for myself, looked at Astron fable just for fun. We talked about strategy that actually spits out ROI backed ideas and will lead you through executing them. Also gives you a research brief. You can pop into a tool like Parker
+
+00:45:24.000 --> 00:45:39.000
+to take it all the way through ads. And then, morning newspaper micro app that your team can see. You set it up once, sends to you every morning. And then the habits that high-performing teams have put in place
+
+00:45:39.000 --> 00:45:52.000
+I am shocked. I must have talked really fast to get this all out, but that gives us time to start Q&A early. If there is any. Jimmy, do you want to go through them together now that I have a sec?
+
+00:45:52.000 --> 00:46:10.000
+Yeah, yeah, yeah, let's do it. Maybe one of the easiest ones to start with, Anastasia just asked it in the chat, but how did you get started with all of this? Was there like a moment that got you really interested in using AI or a project or
+
+00:46:10.000 --> 00:46:14.000
+Walk us through how it all began
+
+00:46:14.000 --> 00:46:17.000
+Being an internet kid
+
+00:46:17.000 --> 00:46:33.000
+And being on Tumblr, but truly, I'll get more practical in a sec, but I grew up not far down the street from Jack Altman. Oh, my God, Jack Dorsey, and then Sam Altman went to my rival high school, and his mom was my dentist, and they were
+
+00:46:33.000 --> 00:46:48.000
+tech kids from day one. Twitter was originally an ambulance notification app. I'm sure you can go back and see earlier versions of it, but I heard about this stuff because we're in the neighborhood. Anyway
+
+00:46:48.000 --> 00:46:54.000
+cut to being on Tumblr, being really early, and then being on Twitter since 2008.
+
+00:46:54.000 --> 00:46:59.000
+The real way I got into AI work was
+
+00:46:59.000 --> 00:47:08.000
+poking around on Twitter and just monitoring things, and then in 2022 where is this?
+
+00:47:08.000 --> 00:47:21.000
+ChatGPT's beta came out around Thanksgiving, and because I was on Twitter, I thought, I want to mess around with this, knowing nothing. Now I know learning in public is super cool, and I really believe in that, so
+
+00:47:21.000 --> 00:47:30.000
+Continuing that, I just kept following what was going on with ChatGPT. I did not have a boss who cared. I was often
+
+00:47:30.000 --> 00:47:41.000
+I felt like one of the only people on the team who was really trying to bring AI into my work, and I thought either I'm crazy or I'm early and I would rather be
+
+00:47:41.000 --> 00:47:46.000
+On the side of curiosity, then
+
+00:47:46.000 --> 00:48:01.000
+Wrong and seen as wasting people's time. Like all of us clearly have an instinct for this. And then I really started to spend a lot of time on Reddit because that's where I found more technical people who were down to answer my questions would hang out
+
+00:48:01.000 --> 00:48:05.000
+Twitter really wasn't the place, so I asked a million questions in this
+
+00:48:05.000 --> 00:48:08.000
+was maybe the middle of last year
+
+00:48:08.000 --> 00:48:14.000
+Where I started to think these tools can take more action than we thought. They're not just content ATMS
+
+00:48:14.000 --> 00:48:18.000
+Then in January, I got a… no, February, I got a Mac Mini
+
+00:48:18.000 --> 00:48:33.000
+And was like, I'm gonna figure this open claw thing out, and holy hell, I hated it. I still have a computer that is a slice of a server in Germany because my open claw is on a VPS
+
+00:48:33.000 --> 00:48:38.000
+I think I'm still paying for it, but I have since moved on, but going through that
+
+00:48:38.000 --> 00:48:53.000
+Like head banging process as a non-technical person was so helpful. That's how I learned what markdown files are. That's how I learned what skills are. It got me into GitHub, which is I now use. And I've talked to Hannah from the Parker team about this, that
+
+00:48:53.000 --> 00:48:59.000
+It's a superpower and once you learn it, you can't unlearn it. It's like learning to read
+
+00:48:59.000 --> 00:49:11.000
+Let me compress this answer. Being on Twitter and scrolling 20 hours… 20 minutes a day, and then just trying to build something. Stop reading and just try to build something
+
+00:49:11.000 --> 00:49:18.000
+In Claude Code. In Claude code, not in code work. Force yourself into Claude Code. It's exceptionally faster.
+
+00:49:18.000 --> 00:49:38.000
+I love it. No, that's really good. And even building on top of that, obviously new companies are coming out with models all the time. How do you balance like going between each of them, especially for people maybe where the idea of having to pay at least for both Max plans is a lot or they just like
+
+00:49:38.000 --> 00:49:55.000
+We'll burn through credits pretty quick if they're only on one. So how do you balance like all the models that come out, Grok bot and Astra and Fable and everything like walk us through kind of how you approach this
+
+00:49:55.000 --> 00:50:01.000
+When I'm working with the team, even if they already have Claude or ChatGPT
+
+00:50:01.000 --> 00:50:16.000
+Work and desktop, I find that the Claude UX is incredible and helpful for people who are getting comfy with it. Also, I've found that Claude, this is maybe a little more in the weeds than you want, but Claude has a really
+
+00:50:16.000 --> 00:50:31.000
+Excellent rate for caching. So, Claude, when you have these long conversations, Claude will offload some of that text and make it, like, more efficient for it to read. So cost goes down from, like, $1 to 25 cents.
+
+00:50:31.000 --> 00:50:45.000
+That is the math I understand on Claude. Also, Anthropic's done an incredible job at investing in UX that I feel is pretty friendly. Let me see if I can find some stuff
+
+00:50:45.000 --> 00:50:50.000
+Claude code is not as friendly as cowork, but let's go
+
+00:50:50.000 --> 00:50:53.000
+Back there, and see what's going on.
+
+00:50:53.000 --> 00:50:58.000
+Projects are really nice. They feel like Google Drive to me.
+
+00:50:58.000 --> 00:51:05.000
+Google Drive files, you can share them. I think it's easier to collaborate across teams, and
+
+00:51:05.000 --> 00:51:10.000
+I am always gonna set a low model first
+
+00:51:10.000 --> 00:51:24.000
+Low model sonnet. If anyone is curious about model choice, and then go up to Fable 5.1, just because, well, look, I'm almost at my limit because I do so much client-facing work, and
+
+00:51:24.000 --> 00:51:43.000
+I'm, like, beyond just dabbling, and I'm like, this has to be amazing. So I would say that. Not to argue with myself, but, like, I think people hate on OpenAI because of the vibes, not because of the product, and I have clearly been spending much more time in ChatGPT work, and in some ways it feels like
+
+00:51:43.000 --> 00:51:56.000
+coming home. Like, I have… it's the first tool I use, and ChatGPT work is brilliant in saying we can pull all of the context that you have from your Claude desktop app into
+
+00:51:56.000 --> 00:52:12.000
+ChatGPT work, and I have not lost an ounce of context over the last couple weeks since I've been using it. If you have to pick one, start with Claude, but I would say know that you're on a pipeline to having both.
+
+00:52:12.000 --> 00:52:24.000
+Yeah. Out of curiosity, how do you balance between using cowork versus Claude Code? Like when do you see yourself going to each of the different, I guess
+
+00:52:24.000 --> 00:52:27.000
+harnesses, tools, whatever you want to call them.
+
+00:52:27.000 --> 00:52:33.000
+Right, right. Yeah, because they are both harnesses and they're technically the same. Co-work is for the most part
+
+00:52:33.000 --> 00:52:39.000
+UX, like a GUI graphic interface on top of Claude code
+
+00:52:39.000 --> 00:52:57.000
+But I would always prefer Claude co work or sorry, Claude code over cowork, because it is faster. The models process differently, even if you are doing the same task. I also find it. This is anecdotal, but I'm sure someone here could tell me why
+
+00:52:57.000 --> 00:53:07.000
+that it is more proactive. So if it hits a wall, it will jump right into self-healing behavior or proactive problem-solving behavior
+
+00:53:07.000 --> 00:53:18.000
+The trade-offs are that you don't have scheduled tasks. You have these whack routines, like the names and the tools are different, and you don't have that, like I said, project view
+
+00:53:18.000 --> 00:53:21.000
+You finally have artifacts, but
+
+00:53:21.000 --> 00:53:36.000
+I find that the power and the sophistication of even the same models in code is so worth it. But I spent the first 4 months of using Claude desktop in cowork. Like, that was my
+
+00:53:36.000 --> 00:53:44.000
+on-ramp, and it's the thing I teach people on, but I do try to get them into Claude Code in, like, two weeks before habits
+
+00:53:44.000 --> 00:53:45.000
+Set in too much
+
+00:53:45.000 --> 00:54:01.000
+Yeah. Cool. No, I love it. Okay, so I've seen a few of these questions. Some people are still like, this is all really great information, but I'm still struggling to just know like what is like the simplest skill or workflow
+
+00:54:01.000 --> 00:54:16.000
+That… that I can just get started to practice and get some sort of value out of these models. Are there any that you found that, like, for the people that are at the beginning of getting into this world, that you think are, like, really, really valuable
+
+00:54:16.000 --> 00:54:26.000
+And not complex, like, maybe it doesn't need Apify or something along those lines, that you have, that you've seen or that you've built.
+
+00:54:26.000 --> 00:54:30.000
+Yeah, of course. And honestly, I think that's the best place
+
+00:54:30.000 --> 00:54:41.000
+to be and to feel, because these tools are the best that they've ever been now. So the starting point is much easier than it was six months ago for me. I was
+
+00:54:41.000 --> 00:54:55.000
+hammering away trying to make the simplest skill, and now it is a much friendlier and fast process. Why don't we actually look at some of the first ones I made? Because I have an idea of what I want to tell you guys about
+
+00:54:55.000 --> 00:55:03.000
+But let's see. So I'm going to where my skills live. The more you guys make them, the more you'll see what's going on.
+
+00:55:03.000 --> 00:55:07.000
+Let me move this and move you guys.
+
+00:55:07.000 --> 00:55:24.000
+Okay, so they're in chronological order, also like a freak. I have Claude name like give dates on mine because I revise them so much as Claude is making a skill, any skill, I'll say like append the date because I want to see what's going on. But let's go down to the
+
+00:55:24.000 --> 00:55:26.000
+Bottom
+
+00:55:26.000 --> 00:55:41.000
+Okay, on April 11th, I wanted Claude to track my workouts. I'll skip over that one because it's not quite so relevant. Okay, here's an easy one. I wanted Claude to remember what we were doing, and I did not know what to use Claude for yet
+
+00:55:41.000 --> 00:55:47.000
+But I was like, if I use it enough, I'll find patterns. So this skill
+
+00:55:47.000 --> 00:55:53.000
+Just told Claude, hey, anytime I finish a chat or want you to remember something
+
+00:55:53.000 --> 00:56:09.000
+I can just hit journal, and it will keep itself a little log, and I didn't know where it was. I was like, this is none of my business. I just need to know. So if anyone wants to see this and have it, you just hit slash, which, like, pulls up your skill
+
+00:56:09.000 --> 00:56:27.000
+And this really taught me that, like, Claude can remember things. But if you want a skill that is actually going to help you a bit more, I know people hate on email triage. I know people say, don't give me another daily brief, but this is so helpful, because the way I set mine up
+
+00:56:27.000 --> 00:56:33.000
+is Claude comes and gives me drafts, and it is so much easier for me
+
+00:56:33.000 --> 00:56:49.000
+to draft inside of a Claude chat, and then tell Claude, go put this in a draft, because I find I get overwhelmed by my email just looking at it, and I want to be the first person who emails. I like being fast, and I like being early, and Claude gets me off that blank
+
+00:56:49.000 --> 00:57:04.000
+page. So this triage just tells Claude, when I say, let's do my emails, it will draft them and bring them to me. That is just offloading cognitive, like, context switching, and I found that to be really useful. But let's see
+
+00:57:04.000 --> 00:57:07.000
+What else was I doing?
+
+00:57:07.000 --> 00:57:22.000
+Made a voice guide. These are going to be so personal to me. I think the Parker team has way more broadly relevant skills, but give me a sec while I scan and then I can suggest them. I teach class and I like Claude to review the applicants
+
+00:57:22.000 --> 00:57:26.000
+With me
+
+00:57:26.000 --> 00:57:44.000
+Yeah, and as you're going, I think, you know, and Grace touched on it right away, it's like, just find something that's really annoying in your life that you have to do a lot, and go into Claude, and just, again, if you use Whisperflow or the voice dictation, I'm telling you that that alone is a game changer when you're using AI, but
+
+00:57:44.000 --> 00:58:03.000
+Just describe what's annoying, what the task is, why it's annoying, and just ask Claude, can you do this for me? And Claude will like walk you through how to even get it set up. So I'm always a fan of what Grace said right away, and I think it's such an underrated
+
+00:58:03.000 --> 00:58:14.000
+Use case of AI is, like, if you have questions about something, just ask Claude and odds are it's going to help you at least start to think through it. So yeah, I
+
+00:58:14.000 --> 00:58:21.000
+Well, let's see what mine is saying. It has no context about you guys, but I want to see what it would suggest
+
+00:58:21.000 --> 00:58:28.000
+Based on that, I was like, they're really smart, they're using Claude, they know what skills are, don't baby them. And let's see.
+
+00:58:28.000 --> 00:58:43.000
+I would also say, like Jimmy said, just ask Claude. Like, the more you use it. But the most efficient and helpful for me, no, I already don't like this are for Claude to go look at a client's ad account
+
+00:58:43.000 --> 00:58:56.000
+And come back to you with recommendations on what to do, like, just begin to start seeing it, because then once you get that summary in the morning, if you're not using Parker, you're gonna have to do it yourself
+
+00:58:56.000 --> 00:59:10.000
+You'll think, oh, okay, I need to actually add on something to this skill, but it's a really nice building block. I would also think about it this way, if you open a tab like think of all the tabs you open during the day
+
+00:59:10.000 --> 00:59:21.000
+whatever information you're trying to get there, have Claude go do that. Excuse me, have Claude go do that for you like. We want to minimize the places that you're working. And for me.
+
+00:59:21.000 --> 00:59:33.000
+bring all that work into here. Like, this is my workspace, I very rarely leave it, and tools like… like, Parker has an MCP, which means that information can come hang out here for you. So
+
+00:59:33.000 --> 00:59:38.000
+When in doubt, don't open a tab and just say, like, I hate opening
+
+00:59:38.000 --> 00:59:41.000
+Sorry, Triple L.
+
+00:59:41.000 --> 00:59:49.000
+You make a skill to bring me that info every morning. It'll put it on timer for you. Would you think that's helpful, Jimmy? Does that like
+
+00:59:49.000 --> 01:00:09.000
+Yeah, no, totally, totally, yeah. I mean, again, it's like, that was a very generic prompt, but even there, I think it's helpful to be able to just look through of like a landing page or ad critic. Like that is something that a lot of people have found really valuable with Parker is they upload an ad or
+
+01:00:09.000 --> 01:00:10.000
+Yeah.
+
+01:00:10.000 --> 01:00:24.000
+Parker can see the landing page and ask, like, how can we make it better? So, yeah, no, I love that. I know we are at the top of the hour. As a reminder, Grace is going to be staying on for an extra 15 minutes to ask questions, so keep adding them if you guys are able to stay on for a little bit longer, we'll keep going through
+
+01:00:24.000 --> 01:00:47.000
+questions. Yes, we are going to be adding the links to Notion as soon as we get wrapped up here, and Grays sends them over, so stay tuned for that. You guys, we'll make sure you guys are in the loop of when those get added. And then as a reminder, we're back Thursday, building a company brain, so that's going to be a ton of fun, and I think you guys are going to get a lot of value out of that
+
+01:00:47.000 --> 01:01:02.000
+And if you're interested in GitHub, like, that's where we'll kind of start to talk about that too. But Grace, thank you so much. I know we'll probably get some people that have to bounce, and we'll get some that stay. But thank you again, and again, everyone else, if you're not staying for the Q&A,
+
+01:01:02.000 --> 01:01:12.000
+Hopefully we will see you Thursday.
+
+01:01:12.000 --> 01:01:13.000
+Yeah.
+
+01:01:13.000 --> 01:01:19.000
+Yeah, let's do it. I'm going to pull some out. Jimmy, if you're looking to, let me know. Well, yes, anyone who's still here, we'll put we're going to put the recording in Notion, right?
+
+01:01:19.000 --> 01:01:21.000
+Correct. Yep.
+
+01:01:21.000 --> 01:01:28.000
+Great. Then anyone should take that transcript and put it in their cloud. Like, what did Grace say?
+
+01:01:28.000 --> 01:01:33.000
+Here's her email, Claude, email her and ask her for this thing she talked about
+
+01:01:33.000 --> 01:01:54.000
+Yeah, early open claw was a disaster. All right, let me just go to the bottom, because a lot of stuff came up a bunch of times, and I think it's super cool that people are answering each other's questions. I love that. Okay, people covered leveraging a skill and instructions. I'll skip that unless anyone wants to bring that back up again. Yes, I can go show my email triage skill
+
+01:01:54.000 --> 01:02:03.000
+Don't cancel me for it. I know that some people don't like email triage, and then my diet and exercise thing. So I'm gonna pull that up
+
+01:02:03.000 --> 01:02:19.000
+Well we go and talk. This was the first one I set up because, like Jimmy said, I had a very annoying everyday habit, which was if I worked out, I had to go into a spreadsheet, which I'll show you and add my exercises
+
+01:02:19.000 --> 01:02:31.000
+It wasn't business critical, but it was important to me to see. Sometimes if I felt sluggish, I would try to go figure out why. But this skill says it'll always have a little abstract
+
+01:02:31.000 --> 01:02:42.000
+And if anyone wants a note, imagine the description as like the information on the spine of a book. And when Claude is deciding what skills to pull up for you, it does not read the whole skill, because, like.
+
+01:02:42.000 --> 01:02:44.000
+Look at this.
+
+01:02:44.000 --> 01:02:49.000
+What… Claude is not going to read that. That's not efficient. This is… that's one way you would just
+
+01:02:49.000 --> 01:03:01.000
+suck up your token. So anyway, your description that Claude writes is how it finds things. You know, reps, weights, these are keywords. It's really, like, keyword stuffing. So the skill, if you want to see it
+
+01:03:01.000 --> 01:03:09.000
+This is what it looks like. Claude knows to add to my tracker. It knows that sometimes I send it messages like this
+
+01:03:09.000 --> 01:03:11.000
+knows how I greet it.
+
+01:03:11.000 --> 01:03:19.000
+But now I'll just message Claude on my mobile app and it knows to use this skill and it will put it into
+
+01:03:19.000 --> 01:03:25.000
+The spreadsheet
+
+01:03:25.000 --> 01:03:36.000
+Like uncool. But now Claude keeps track of everything. I can see how many workouts I did and if I was like, Claude, make me a workout. The things I've done the least
+
+01:03:36.000 --> 01:03:38.000
+I mean
+
+01:03:38.000 --> 01:03:45.000
+Not sexy, but that's what's going on. Okay, there's another skill. You guys want to see email triage?
+
+01:03:45.000 --> 01:03:50.000
+This was actually the most popular clicked-on link in my sub stack
+
+01:03:50.000 --> 01:03:57.000
+And I was like, I know you guys, don't hate this
+
+01:03:57.000 --> 01:04:05.000
+Okay, this is updated in the early August and I also linked to a place that will tell Claude to clean out your inbox
+
+01:04:05.000 --> 01:04:20.000
+Like, once and for all. That actually goes overnight for most people, so you set it on Sonnet and let it rip and keep your cloud open, and it will take a few rounds. But this is the email triage skill.
+
+01:04:20.000 --> 01:04:30.000
+This is a pretty long skill, by the way. This is longer than I would write, but it's because I need Claude to bring me good drafts. Otherwise, it's pointless.
+
+01:04:30.000 --> 01:04:31.000
+Love it.
+
+01:04:31.000 --> 01:04:32.000
+Jimmy, help me out.
+
+01:04:32.000 --> 01:04:41.000
+No, you're good, great. Are… are you gonna be sending this out to people if they are interested in something like this?
+
+01:04:41.000 --> 01:04:42.000
+Sweet.
+
+01:04:42.000 --> 01:04:56.000
+Oh yeah, of course, of course. Just remember you're going to have to customize it to yourself. For example.
+
+01:04:56.000 --> 01:04:57.000
+Yeah
+
+01:04:57.000 --> 01:04:59.000
+If you wanted the workout tracker skill, you're welcome, but it's hard-coded to my spreadsheet URL, so Claude will just say, this looks like this was meant for someone else. Interestingly, I have a skill
+
+01:04:59.000 --> 01:05:17.000
+That I made recently because I found when I asked Claude like ELI 5, it was treating me like a baby and it was just assuming I literally knew nothing and was making every analogy about like a lemonade stand. So I had to make a skill for Claude that was like, explain this to a human adult
+
+01:05:17.000 --> 01:05:20.000
+And I put this on Twitter, and it was
+
+01:05:20.000 --> 01:05:34.000
+super popular, but because it's so specific to me, people's clauds were like, you're stealing. You're stealing from this person named Grace. So, I anonymized it, so it doesn't mention me anymore, but people seem to like this one.
+
+01:05:34.000 --> 01:05:44.000
+Love that. Another question for you, Grace, that we've been getting. How did you get your first client when it came to teaching AI?
+
+01:05:44.000 --> 01:05:56.000
+Totally by accident, because I started teaching a class. Someone asked how I got started messing around with AI. I post a lot on Instagram. I'm just comfortable with it. I'm an oversharer
+
+01:05:56.000 --> 01:06:12.000
+and someone, and I just wish I remembered who, said, you are so excited about this, you should teach a class. I'd always hosted events for no reason, and this lofty, actually, has a really beautiful office in Tribeca, in New York, so
+
+01:06:12.000 --> 01:06:27.000
+Just put up a partiful and was like, who would want to come? I can teach 25 people at once, I think. And over 200 people signed up, which is such a good sign that people wanted to learn, so that meant I started teaching class every week, and people
+
+01:06:27.000 --> 01:06:39.000
+People who follow me are us, they're marketers. So they would say, oh, you should come teach our class. Sorry, our company. Can you come do this and shout out to Gia, G-H-I-A like
+
+01:06:39.000 --> 01:06:51.000
+That founder, Melanie, is a psychic. Like, she is early to everything, and she was like, I need my team to have support, and I think it's gonna be through AI. So, I worked with her in, like, March
+
+01:06:51.000 --> 01:07:06.000
+And that feels like a lifetime ago. But that was it. I was just, like, giving back. And another way you could do that, if you don't feel like hosting a class is to be responding and comments on Twitter. Like, use that strategy engine. It will… it flags things you can comment on, and I think people over time are like
+
+01:07:06.000 --> 01:07:08.000
+You seem to know a lot
+
+01:07:08.000 --> 01:07:13.000
+I'm also totally zero shame about being like
+
+01:07:13.000 --> 01:07:20.000
+I should teach your class. I should teach your company
+
+01:07:20.000 --> 01:07:21.000
+I love it.
+
+01:07:21.000 --> 01:07:23.000
+Worst thing anyone can say is, like, no, you're annoying. And building up resilience is great.
+
+01:07:23.000 --> 01:07:36.000
+And Grace, if people were interested in having you come to their team or working with you or to being a part of your course, like what's a way that people could continue to learn from you?
+
+01:07:36.000 --> 01:07:51.000
+Oh, good question. I'll put my link to my partiful page on the Notion Hub because that's where I post every class. And this fall is more advanced electives. So we're actually going to be building
+
+01:07:51.000 --> 01:08:06.000
+a more autonomous agent together, like, something like this, we're going to be building complex workflows together, just a handful of other things that students said they wanted to learn that will get them from power user to, like, system user. So I'll post that, and then
+
+01:08:06.000 --> 01:08:12.000
+I write a little bit, I'm new to it on Substack, and that's where I post classes
+
+01:08:12.000 --> 01:08:14.000
+early. That's where I post them first.
+
+01:08:14.000 --> 01:08:42.000
+Love it. Okay, cool. Yeah, so all that will be linked in Notion. So you'll be able to see and get in contact with Grace and hopefully take your course because she is great. Grace, a question that I have for you, how do you balance AI doing work for you and not losing like it's just taking over your craft, especially for someone who makes a lot of content and obviously that's something that AI is getting better and better at
+
+01:08:42.000 --> 01:08:56.000
+What is the balance between feeling like you're just automating your entire life away versus, like, still feeling like you're in control, and you get to write it, and it has, like, kind of… I don't know, again, it's like your craft that you still get to do.
+
+01:08:56.000 --> 01:09:13.000
+It's so tough, right? Like it's I find that hard and I'm very afraid of cognitive atrophy. Truly. There are two ways that I go about it. The first is when I ask Claude for something, if it's not a skill, is I tell it my idea first
+
+01:09:13.000 --> 01:09:22.000
+It's so annoying. I just want to race through getting relief and the recommendation, but I say, I think I'm going to approach it this way. What do you think?
+
+01:09:22.000 --> 01:09:37.000
+Just to be in the habit of always thinking, which may sound so insane, but that's helpful. And then, when I'm making a process or a workflow I showed you, I try to have one place where i'm in it, where Claude has to bring me information
+
+01:09:37.000 --> 01:09:48.000
+And the strategy engine, for example, there are two points where Claude will interview me, and it's designed to ask questions and press, like, the way
+
+01:09:48.000 --> 01:10:02.000
+Like a negotiator would under a bright light. Other people really want to just automate everything, and that's just not my way. It's not my belief. If clients say, automate absolutely everything for me
+
+01:10:02.000 --> 01:10:10.000
+It is a rare circumstance where I will do it. It is if their team is drowning. Like, they can't navigate Shopify because they're exhausted
+
+01:10:10.000 --> 01:10:15.000
+So have Claude build in points where you are the human
+
+01:10:15.000 --> 01:10:20.000
+in the loop, and tell it your approach before you let it rip
+
+01:10:20.000 --> 01:10:23.000
+Love it. I love it. Yeah, that's really good.
+
+01:10:23.000 --> 01:10:27.000
+What do you do? How do you handle it? I know you guys are very like
+
+01:10:27.000 --> 01:10:29.000
+humans are here
+
+01:10:29.000 --> 01:10:46.000
+Yeah, I mean, I'm such a big fan of like if you can just work with a notebook and just like literally get away from all your screens and just like write down how you think about the challenge or opportunity or idea that you have
+
+01:10:46.000 --> 01:11:03.000
+That's by far one of my favorite. Like, I love the analogies. I saw this somewhere, I don't remember where, but it's like, if I… if I… and, you know, maybe, maybe not for a ton of the people in the room, because I get it, math is not easy, but if I asked you what 25 times 117 was
+
+01:11:03.000 --> 01:11:23.000
+Out of like you being able to try to think of that in your head and answer it is really hard. If you wrote it down and you remembered from, you know, elementary or high school how to actually go and do math by hand, you can get to that answer way faster. And I don't think it's that different when you're trying to
+
+01:11:23.000 --> 01:11:38.000
+Understand and work through problems or ideas or questions, like, so much power comes from you just pen and paper, writing down just the random thoughts and thinking through it in that way, because I agree, I think we don't want to lose our
+
+01:11:38.000 --> 01:11:54.000
+our sense of systems thinking, I think it's like I'm… where I'm just so excited about AI is whatever your craft is, you know, do that and have AI help you. But everything else that you don't like to do, like, if you don't like to do your taxes
+
+01:11:54.000 --> 01:12:04.000
+Yeah, if AI does that, I don't think that's a bad thing in society. But don't let it just do the things that you like to do and try to keep that as human in the loop as possible.
+
+01:12:04.000 --> 01:12:19.000
+I want to say one thing about that too is even if you don't enjoy something, but it keeps you close to the business, do it. Still do it. If you need to look at performance every Monday and you need to be in Shopify, and that is just how you have a grip on things
+
+01:12:19.000 --> 01:12:21.000
+Don't give that up
+
+01:12:21.000 --> 01:12:23.000
+Just yet.
+
+01:12:23.000 --> 01:12:28.000
+Stay close to, like, what keeps you aware of your
+
+01:12:28.000 --> 01:12:30.000
+Your business, your work. Okay
+
+01:12:30.000 --> 01:12:31.000
+Totally.
+
+01:12:31.000 --> 01:12:33.000
+Okay, we have 2 minutes. What do we want to talk about?
+
+01:12:33.000 --> 01:12:48.000
+Two minutes left. Yeah, I mean, I'm still seeing a lot of people asking about like jumping from Claude Cowork to Claude Code or even even just like, do you use ChatGPT still or do you only use Claude
+
+01:12:48.000 --> 01:12:59.000
+And so… and now, obviously, ChatGPT has their version of co-work called work. So how do you like, I don't know, how do you think through when to use
+
+01:12:59.000 --> 01:13:06.000
+cowork versus code, and when to use OpenAI versus Anthropic's
+
+01:13:06.000 --> 01:13:07.000
+Yeah.
+
+01:13:07.000 --> 01:13:14.000
+It's so hard. I will be annoying in that my answer won't be really definite, but
+
+01:13:14.000 --> 01:13:21.000
+Let's talk cohort to code first, and then because ChatGPT work is a bit new, we can touch on that.
+
+01:13:21.000 --> 01:13:29.000
+My answer is the same, even with ChatGPT regular. Co-work, I try to get out of quickly
+
+01:13:29.000 --> 01:13:39.000
+Because, for the same exact tasks, because the model is so much more efficient in code. And I also
+
+01:13:39.000 --> 01:13:50.000
+For whatever reason, maybe because I have, like, an ego about this, I want to know that I can be in code. Like, it makes me feel more confident, so I want to understand it, but
+
+01:13:50.000 --> 01:14:04.000
+When I'm opening up, like, the desktop app, my first stop is still co-work. How do I get out of this? Because I'm so used to it, and look, I have, like, my setup. It feels really good. I have my projects
+
+01:14:04.000 --> 01:14:08.000
+I have my scheduled tasks… so
+
+01:14:08.000 --> 01:14:19.000
+if anyone is asking because they're like, where do I even start, hang out and co-work, because you get the understanding of how it all works. You understand how connectors work
+
+01:14:19.000 --> 01:14:26.000
+And you get, like, a lay of the land. It's almost like going into a beautiful house before you then have to go to
+
+01:14:26.000 --> 01:14:43.000
+a house you have to redo, or, like, fully decorate. So if anyone feels, like, shame about it, like I did, I was like, why am I not just starting with the real thing? No way. I think I still think… there's a reason I have a job, guys. Like, there's a reason I'm teaching people
+
+01:14:43.000 --> 01:14:52.000
+cowork, because it is still, like, I know you don't feel like it, but it's still kind of early. So start with co-work, and then I actually just don't know yet about
+
+01:14:52.000 --> 01:14:59.000
+Claude versus ChatGPT desktop. I don't have an I, you know, I haven't had enough time to really tell you
+
+01:14:59.000 --> 01:15:02.000
+But I love it. It's my first love
+
+01:15:02.000 --> 01:15:07.000
+Yeah, yeah, yeah, it really was the biggest wow moment
+
+01:15:07.000 --> 01:15:23.000
+I don't know, in the past 20 years at least, which is which is crazy. Cool. Any parting thoughts, Grace? Thank you again so much for coming on and teaching this. I know was super helpful for me, and, and, you do such a good job of just
+
+01:15:23.000 --> 01:15:35.000
+being able to take a lot of information, break it down, make it digestible, and so, yeah, thank you so much for showing up. And yeah, any last words? It's all yours.
+
+01:15:35.000 --> 01:15:50.000
+Hell yeah, keep coming to these things, you guys, whether it's Parker or not, and keep asking questions. I am not pushing my class, I just know that it works. If you want to come and have your workspace set up
+
+01:15:50.000 --> 01:16:03.000
+like, making skills for the first time, making scheduled tasks for the first time, I do that online now, and I can give you those dates. They're coming up in September, so you're welcome to come and get a bit of a
+
+01:16:03.000 --> 01:16:18.000
+refresher. And then most… I saw a lot of questions about staying current, and I can also list my, like, media diet, because that's what my strategy engine uses to go search for me. So if people want to see that, it's pretty diverse perspectives. It's not just
+
+01:16:18.000 --> 01:16:21.000
+Tech bros, no offense.
+
+01:16:21.000 --> 01:16:27.000
+Yeah, no, you're good. I get it. I get it. I get it. The stereotype can be real many times, but
+
+01:16:27.000 --> 01:16:33.000
+My grok bot just said, your session with Parker is ended. It thinks it ended at one. How'd it go?
+
+01:16:33.000 --> 01:16:34.000
+I love it.
+
+01:16:34.000 --> 01:16:37.000
+Try GraphBot. It's safe, I think.
+
+01:16:37.000 --> 01:16:38.000
+Yeah, yeah, yeah.
+
+01:16:38.000 --> 01:16:40.000
+Cool. Okay, did we do it
+
+01:16:40.000 --> 01:16:56.000
+We did it, Grace. Thank you again. Seriously, we appreciate it. Reminder, we'll add everything to Notion, so you don't need to worry about asking for anything that she went over today. And yeah, we kick back up on Thursday, so we'll see you guys in a few days.
+
+01:16:56.000 --> 01:16:58.000
+All right
+
+01:16:58.000 --> 01:17:01.000
+See y'all later.
+
+01:17:01.000 --> 01:17:07.000
+Thanks, everyoneBye
+
